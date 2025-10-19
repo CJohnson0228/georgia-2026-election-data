@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2025-10-19T12:00:00Z",
+  "updatedBy": "Christopher Johnson",
+  "version": "1.0.0",
+  "dataVersion": {
+    "candidates": "1.0.0",
+    "endorsements": "1.0.0",
+    "news": "1.0.0"
+  },
+  "notes": "Initial data structure for Georgia 2026 elections dashboard"
+}
