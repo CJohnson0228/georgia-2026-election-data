@@ -1,53 +1,57 @@
 {
   "feeds": [
     {
-      "id": "gapundit",
-      "name": "GaPundit - Georgia Politics",
-      "url": "https://gapundit.com/feed",
-      "category": "georgia-news",
+      "id": "google-news-georgia-2026",
+      "name": "Georgia 2026 Elections",
+      "url": "https://news.google.com/rss/search?q=Georgia+election+2026+OR+%22Georgia+governor%22+OR+%22lieutenant+governor%22&hl=en-US&gl=US&ceid=US:en",
+      "category": "elections",
       "priority": 1,
-      "description": "Leading source for Georgia politics"
+      "description": "Latest news about Georgia 2026 elections"
     },
     {
-      "id": "georgia-recorder",
-      "name": "Georgia Recorder",
-      "url": "https://georgiarecorder.com/feed",
-      "category": "georgia-news",
-      "priority": 1,
-      "description": "Independent nonprofit Georgia news"
-    },
-    {
-      "id": "allongeorgia",
-      "name": "AllOnGeorgia Politics",
-      "url": "https://allongeorgia.com/category/local-news/politics/feed",
-      "category": "georgia-news",
+      "id": "google-news-bottoms",
+      "name": "Keisha Lance Bottoms",
+      "url": "https://news.google.com/rss/search?q=%22Keisha+Lance+Bottoms%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
       "priority": 2,
-      "description": "Hyperlocal Georgia political news"
+      "candidateId": "keisha-lance-bottoms"
     },
     {
-      "id": "athens-politics-nerd",
-      "name": "Athens Politics Nerd",
-      "url": "https://athenspoliticsnerd.com/feed",
-      "category": "georgia-news",
+      "id": "google-news-thurmond",
+      "name": "Michael Thurmond",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Thurmond%22+Georgia+governor&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
       "priority": 2,
-      "description": "Progressive Georgia policy news"
+      "candidateId": "michael-thurmond"
+    },
+    {
+      "id": "google-news-romman",
+      "name": "Ruwa Romman",
+      "url": "https://news.google.com/rss/search?q=%22Ruwa+Romman%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "ruwa-romman"
+    },
+    {
+      "id": "google-news-mclaurin",
+      "name": "Josh McLaurin",
+      "url": "https://news.google.com/rss/search?q=%22Josh+McLaurin%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "josh-mclaurin"
+    },
+    {
+      "id": "google-news-sd20",
+      "name": "State Senate District 20",
+      "url": "https://news.google.com/rss/search?q=Georgia+%22State+Senate+District+20%22+OR+Houston+County+politics&hl=en-US&gl=US&ceid=US:en",
+      "category": "local",
+      "priority": 2,
+      "description": "Local news about SD-20 and Houston County"
     }
   ],
-  "searchKeywords": [
-    "2026",
-    "governor",
-    "gubernatorial",
-    "Keisha Lance Bottoms",
-    "Jason Esteves",
-    "Derrick Jackson",
-    "Ruwa Romman",
-    "Michael Thurmond",
-    "Geoff Duncan",
-    "Olu Brown",
-    "Josh McLaurin",
-    "lieutenant governor",
-    "Georgia election",
-    "Democratic",
-    "Republican"
-  ]
+  "categories": {
+    "elections": "Statewide election news",
+    "candidates": "Candidate-specific coverage",
+    "local": "Houston County and Middle Georgia"
+  }
 }
