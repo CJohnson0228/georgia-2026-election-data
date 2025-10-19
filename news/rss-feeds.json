@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "id": "ajc-politics",
+      "name": "Atlanta Journal-Constitution Politics",
+      "url": "https://www.ajc.com/politics/?outputType=rss",
+      "category": "georgia-news",
+      "priority": 1,
+      "description": "Georgia's largest newspaper, comprehensive political coverage"
+    },
+    {
+      "id": "gpb-politics",
+      "name": "Georgia Public Broadcasting Politics",
+      "url": "https://www.gpb.org/politics/rss",
+      "category": "georgia-news",
+      "priority": 1,
+      "description": "Nonpartisan public radio coverage of Georgia politics"
+    },
+    {
+      "id": "11alive-politics",
+      "name": "11Alive Politics",
+      "url": "https://www.11alive.com/politics",
+      "category": "atlanta-news",
+      "priority": 2,
+      "description": "NBC Atlanta affiliate political coverage"
+    },
+    {
+      "id": "fox5-politics",
+      "name": "Fox5 Atlanta Politics",
+      "url": "https://www.fox5atlanta.com/politics",
+      "category": "atlanta-news",
+      "priority": 2,
+      "description": "Fox Atlanta affiliate political coverage"
+    },
+    {
+      "id": "politico-georgia",
+      "name": "Politico Georgia",
+      "url": "https://www.politico.com/rss/georgia.xml",
+      "category": "national",
+      "priority": 2,
+      "description": "National political coverage with Georgia focus"
+    }
+  ],
+  "searchKeywords": [
+    "2026",
+    "governor",
+    "gubernatorial",
+    "Keisha Lance Bottoms",
+    "Jason Esteves",
+    "Derrick Jackson",
+    "Ruwa Romman",
+    "Michael Thurmond",
+    "Geoff Duncan",
+    "Olu Brown",
+    "Josh McLaurin",
+    "lieutenant governor",
+    "Georgia election"
+  ]
+}
