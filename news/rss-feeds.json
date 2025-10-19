@@ -1,44 +1,36 @@
 {
   "feeds": [
     {
-      "id": "ajc-politics",
-      "name": "Atlanta Journal-Constitution Politics",
-      "url": "https://www.ajc.com/politics/?outputType=rss",
+      "id": "gapundit",
+      "name": "GaPundit - Georgia Politics",
+      "url": "https://gapundit.com/feed",
       "category": "georgia-news",
       "priority": 1,
-      "description": "Georgia's largest newspaper, comprehensive political coverage"
+      "description": "Leading source for Georgia politics"
     },
     {
-      "id": "gpb-politics",
-      "name": "Georgia Public Broadcasting Politics",
-      "url": "https://www.gpb.org/politics/rss",
+      "id": "georgia-recorder",
+      "name": "Georgia Recorder",
+      "url": "https://georgiarecorder.com/feed",
       "category": "georgia-news",
       "priority": 1,
-      "description": "Nonpartisan public radio coverage of Georgia politics"
+      "description": "Independent nonprofit Georgia news"
     },
     {
-      "id": "11alive-politics",
-      "name": "11Alive Politics",
-      "url": "https://www.11alive.com/politics",
-      "category": "atlanta-news",
+      "id": "allongeorgia",
+      "name": "AllOnGeorgia Politics",
+      "url": "https://allongeorgia.com/category/local-news/politics/feed",
+      "category": "georgia-news",
       "priority": 2,
-      "description": "NBC Atlanta affiliate political coverage"
+      "description": "Hyperlocal Georgia political news"
     },
     {
-      "id": "fox5-politics",
-      "name": "Fox5 Atlanta Politics",
-      "url": "https://www.fox5atlanta.com/politics",
-      "category": "atlanta-news",
+      "id": "athens-politics-nerd",
+      "name": "Athens Politics Nerd",
+      "url": "https://athenspoliticsnerd.com/feed",
+      "category": "georgia-news",
       "priority": 2,
-      "description": "Fox Atlanta affiliate political coverage"
-    },
-    {
-      "id": "politico-georgia",
-      "name": "Politico Georgia",
-      "url": "https://www.politico.com/rss/georgia.xml",
-      "category": "national",
-      "priority": 2,
-      "description": "National political coverage with Georgia focus"
+      "description": "Progressive Georgia policy news"
     }
   ],
   "searchKeywords": [
@@ -54,6 +46,8 @@
     "Olu Brown",
     "Josh McLaurin",
     "lieutenant governor",
-    "Georgia election"
+    "Georgia election",
+    "Democratic",
+    "Republican"
   ]
 }
