@@ -1,1 +1,30 @@
+{
+  "id": "brad_raffensperger",
+  "name": "Brad Raffensperger",
+  "party": "Republican",
+  "race": "ga_governor",
+  "isIncumbent": true,
+  "background": "Born in Baltimore, Maryland. Professional engineer and former technology consultant. Served in Georgia House of Representatives before being elected Secretary of State in 2018.",
+  "experience": [
+    "Secretary of State of Georgia (2019‑present)",
+    "Georgia State Representative (2015‑2019)",
+    "Engineer and technology consultant"
+  ],
+  "keyIssues": [
+    "Election integrity and cybersecurity",
+    "Voter access and registration modernization",
+    "Government efficiency and transparency"
+  ],
+  "website": "https://bradforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@Brad4Georgia",
+    "facebook": "https://www.facebook.com/bradraffenspergerforgeorgia",
+    "instagram": "@bradforgeorgia"
+  },
+  "sources": [
+    "https://ballotpedia.org/Brad_Raffensperger",
+    "https://www.sos.ga.gov/index.php/elections/brad_raffensperger"
+  ]
+}
 
