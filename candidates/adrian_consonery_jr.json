@@ -1,1 +1,29 @@
-
+{
+  "id": "adrian_consonery_jr",
+  "name": "Adrian Consonery Jr.",
+  "party": "Democratic",
+  "race": "ga_secretaryofstate",
+  "isIncumbent": false,
+  "background": "Born in Marietta, Georgia; graduated from Hillgrove High School and earned a bachelor's degree from Grambling State University. Founded Lyfeline Initiative Inc., a 501(c)(3) focused on community development and vocational rehabilitation.",
+  "experience": [
+    "Founder & CEO, Lyfeline Initiative Inc.",
+    "Community advocate for voting rights and representation"
+  ],
+  "keyIssues": [
+    "Protecting and expanding voting access",
+    "Technology and innovation policy",
+    "Education and student debt relief",
+    "Women’s reproductive rights"
+  ],
+  "website": "https://www.aj4ga.org/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@aj4ga_",
+    "facebook": "https://www.facebook.com/AdrianConsoneryJr",
+    "instagram": "@ajconsonery"
+  },
+  "sources": [
+    "https://ballotpedia.org/Adrian_Consonery_Jr",
+    "https://www.11alive.com/article/news/politics/the-georgia-vote/young-democrat-adrian-consonery-jr-enters-georgia-secretary-of-state-race/85-87547859-7713-4bcd-8851f3"
+  ]
+}
