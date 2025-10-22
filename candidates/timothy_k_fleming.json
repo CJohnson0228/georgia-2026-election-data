@@ -1,1 +1,24 @@
-
+{
+  "id": "timothy_k_fleming",
+  "name": "Timothy K. Fleming",
+  "party": "Republican",
+  "race": "ga_secretaryofstate",
+  "isIncumbent": false,
+  "background": "Georgia State Representative and declared candidate for Secretary of State in 2026.",
+  "experience": [
+    "Georgia State Representative"
+  ],
+  "keyIssues": [
+    "Election reform",
+    "Voter access",
+    "Government transparency"
+  ],
+  "website": "",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "sources": []
+}
