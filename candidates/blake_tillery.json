@@ -2,7 +2,7 @@
   "id": "blake_tillery",
   "name": "Blake Tillery",
   "party": "Republican",
-  "race": "ga_state_senate_district_19",
+  "race": "ga_lt_governor",
   "isIncumbent": true,
   "background": "Born October 9, 1983 in Vidalia, Georgia. Graduated from the University of Georgia (BA International Affairs) in 2006 and earned a J.D. from University of Georgia School of Law in 2010. Former Chairman of the Toombs County Commission and attorney in Vidalia.",
   "experience": [
@@ -16,16 +16,16 @@
     "Support for rural infrastructure and workforce development"
   ],
   "website": "https://tilleryforgeorgia.com/",
-  
   "endorsements": [],
   "socialMedia": {
     "twitter": "@BlakeTillery",
     "facebook": "https://www.facebook.com/BlakeTilleryGA/",
-    "instagram": "tilleryforgeorgia"
+    "instagram": "@tilleryforgeorgia"
   },
   "sources": [
     "https://www.senate.ga.gov/senators/en-us/member.aspx?Member=4908",
-    "https://ballotpedia.org/Blake_Tillery"
+    "https://ballotpedia.org/Blake_Tillery",
+    "https://tilleryforgeorgia.com",
   ]
 }
 
