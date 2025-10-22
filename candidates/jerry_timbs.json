@@ -1,1 +1,28 @@
-
+{
+  "id": "jerry_timbs",
+  "name": "Jerry Timbs",
+  "party": "Republican",
+  "race": "ga_lieutenant_governor",
+  "isIncumbent": false,
+  "background": "Businessman and political newcomer from Griffin, Georgia. Announced candidacy for Lieutenant Governor in 2026.",
+  "experience": [
+    "Business owner",
+    "Community leader",
+    "First-time political candidate"
+  ],
+  "keyIssues": [
+    "Economic development",
+    "Education reform",
+    "Public safety"
+  ],
+  "website": "",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "",
+    "facebook": "https://www.facebook.com/groups/1502821220746961/user/100009209627593/",
+    "instagram": ""
+  },
+  "sources": [
+    "https://www.facebook.com/groups/693278492888948/posts/984058900477571/"
+  ]
+}
