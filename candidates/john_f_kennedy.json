@@ -2,18 +2,17 @@
   "id": "john_f_kennedy",
   "name": "John F. Kennedy",
   "party": "Republican",
-  "race": "ga_lieutenant_governor",
+  "race": "ga_lt_governor",
   "isIncumbent": false,
-  "background": "Former President Pro Tempore of the Georgia State Senate. Member of the Georgia State Senate since 2015, representing District 18.",
+  "background": "Current State Senator from District 20 (includes Houston County). Running for Lieutenant Governor, which creates open seat in SD-20. Conservative Republican with focus on business and economic issues.",
   "experience": [
-    "President Pro Tempore, Georgia State Senate (2023–2025)",
-    "Georgia State Senator, District 18 (2015–present)",
-    "Attorney"
+    "Georgia State Senator, District 20 (current)",
+    "Business owner and entrepreneur"
   ],
   "keyIssues": [
     "Economic development",
-    "Education reform",
-    "Public safety"
+    "Conservative values",
+    "Business-friendly policies"
   ],
   "website": "https://www.jfkforgeorgia.com/",
   "endorsements": [],
