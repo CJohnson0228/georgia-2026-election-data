@@ -1,1 +1,29 @@
-
+{
+  "id": "clark_dean",
+  "name": "Clark Dean",
+  "party": "Republican",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "Businessman and political newcomer from Georgia. Announced candidacy for Governor emphasizing practical solutions and affordability.",
+  "experience": [
+    "Business executive in real estate and community development",
+    "Political newcomer focused on results for Georgia families"
+  ],
+  "keyIssues": [
+    "Affordable housing",
+    "Healthcare access",
+    "Economic development",
+    "Government transparency"
+  ],
+  "website": "https://www.clarkdeanforga.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@Clark_Dean",
+    "facebook": "https://www.facebook.com/clark_dean",
+    "instagram": null
+  },
+  "sources": [
+    "https://www.clarkdeanforga.com/about",
+    "https://www.ajc.com/politics/2025/09/clark-dean-enters-georgia-governors-race-as-gop-outsider/"
+  ]
+}
