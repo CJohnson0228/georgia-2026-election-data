@@ -1,1 +1,29 @@
-
+{
+  "id": "john_f_kennedy",
+  "name": "John F. Kennedy",
+  "party": "Republican",
+  "race": "ga_lieutenant_governor",
+  "isIncumbent": false,
+  "background": "Former President Pro Tempore of the Georgia State Senate. Member of the Georgia State Senate since 2015, representing District 18.",
+  "experience": [
+    "President Pro Tempore, Georgia State Senate (2023–2025)",
+    "Georgia State Senator, District 18 (2015–present)",
+    "Attorney"
+  ],
+  "keyIssues": [
+    "Economic development",
+    "Education reform",
+    "Public safety"
+  ],
+  "website": "https://www.jfkforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@johnfkennedyga",
+    "facebook": "https://www.facebook.com/SenatorJohnFKennedy/",
+    "instagram": "@johnfkennedyga"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_F._Kennedy_(Georgia_politician)",
+    "https://www.legis.ga.gov/api/document/docs/default-source/bios/kennedy-john-f-852.pdf"
+  ]
+}
