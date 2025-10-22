@@ -1,1 +1,27 @@
-
+{
+  "id": "william_cowsert",
+  "name": "William Cowsert",
+  "party": "Republican",
+  "race": "ga_attorney_general",
+  "isIncumbent": false,
+  "background": "Georgia State Senator (since 2007) and declared candidate for Attorney General in 2026.",
+  "experience": [
+    "Georgia State Senator, multiple terms",
+    "Majority Leader, Georgia Senate (2014-2018)"
+  ],
+  "keyIssues": [
+    "Public safety and criminal justice",
+    "Human trafficking and fentanyl enforcement",
+    "Protecting Georgia families"
+  ],
+  "website": "https://cowsertforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "sources": [
+    "https://apnews.com/article/18121e3723b290457b647fa027358f0a"
+  ]
+}
