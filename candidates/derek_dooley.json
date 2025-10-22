@@ -1,1 +1,29 @@
-
+{
+  "id": "derek_dooley",
+  "name": "Derek Dooley",
+  "party": "Republican",
+  "race": "us_senate",
+  "isIncumbent": false,
+  "background": "Former college football coach and political newcomer. Entered U.S. Senate race to challenge incumbent Jon Ossoff.",
+  "experience": [
+    "Head coach at University of Tennessee and Louisiana Tech",
+    "Political newcomer focused on conservative values and economic growth"
+  ],
+  "keyIssues": [
+    "Economic growth",
+    "Job creation",
+    "National security",
+    "Healthcare reform"
+  ],
+  "website": "https://www.dooleyforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@DerekDooleyGA",
+    "facebook": "https://www.facebook.com/DerekDooleyGA",
+    "instagram": "@derekdooleyga"
+  },
+  "sources": [
+    "https://www.dooleyforgeorgia.com/",
+    "https://georgiarecorder.com/2025/08/04/derek-dooley-enters-georgias-u-s-senate-race-setting-up-a-three-way-battle-for-the-gop-nomination/"
+  ]
+}
