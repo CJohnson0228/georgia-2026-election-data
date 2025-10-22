@@ -1,1 +1,30 @@
+{
+  "id": "bob_trammell",
+  "name": "Bob Trammell",
+  "party": "Democratic",
+  "race": "ga_attorneygeneral",
+  "isIncumbent": false,
+  "background": "Born in Rome, Georgia. Attorney and former Minority Leader of the Georgia House of Representatives. Focused on state legislation, education, and local government issues.",
+  "experience": [
+    "Georgia State Representative, District 132 (2013‑2023)",
+    "Minority Leader, Georgia House of Representatives",
+    "Attorney, private practice"
+  ],
+  "keyIssues": [
+    "Education funding and reform",
+    "Healthcare access",
+    "Economic development in Georgia districts"
+  ],
+  "website": "https://www.bobtrammell.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@TrammellBob",
+    "facebook": "https://www.facebook.com/BobforAG",
+    "instagram": "bobforallgeorgians"
+  },
+  "sources": [
+    "https://ballotpedia.org/Bob_Trammell",
+    "https://www.ourcampaigns.com/CandidateDetail.html?CandidateID=317202"
+  ]
+}
 
