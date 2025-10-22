@@ -1,1 +1,30 @@
-
+{
+  "id": "michael_thurmond",
+  "name": "Michael Thurmond",
+  "party": "Democratic",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "Former DeKalb County CEO and Georgia Labor Commissioner. Announced his campaign for Governor of Georgia in 2026.",
+  "experience": [
+    "CEO, DeKalb County",
+    "Labor Commissioner of Georgia",
+    "Georgia state legislator"
+  ],
+  "keyIssues": [
+    "Healthcare access and expansion",
+    "Education reform and multiple pathways to success",
+    "Bridging political and racial divides in Georgia governance"
+  ],
+  "website": "https://www.mikethurmond.com/about",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@MikeThurmondGA",
+    "facebook": "https://www.facebook.com/mike.thurmond1",
+    "instagram": "@mikethurmondga"
+  },
+  "sources": [
+    "https://apnews.com/article/333e82505c2eb7ede947d0de5120f92c",
+    "https://www.11alive.com/article/news/politics/the-georgia-vote/michael-thurmond-campaign-for-governor-former-dekalb-ceo/85-9169dcd7-3338-4fde-be02-55b518a0b471",
+    "https://www.ajc.com/politics/politically-georgia/field-narrows-for-georgia-democrats-vying-for-governor-in-2026/JU7W2YRLVJE4LBJZCUHO463K3I/"
+  ]
+}
