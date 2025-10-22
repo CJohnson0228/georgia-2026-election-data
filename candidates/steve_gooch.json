@@ -1,1 +1,25 @@
-
+{
+  "id": "steve_gooch",
+  "name": "Steve Gooch",
+  "party": "Republican",
+  "race": "ga_lt_governor",
+  "isIncumbent": false,
+  "background": "Georgia State Senator and candidate for Lieutenant Governor in 2026.",
+  "experience": [
+    "Georgia State Senator (since 2011)",
+    "Majority Leader, Georgia Senate"
+  ],
+  "keyIssues": [
+    "Economic growth",
+    "Infrastructure improvement",
+    "Tax reduction"
+  ],
+  "website": "https://www.goochforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@GoochForGeorgia",
+    "facebook": "https://www.facebook.com/GoochForGeorgia/",
+    "instagram": "@goochforgeorgia"
+  },
+  "sources": []
+}
