@@ -18,9 +18,9 @@
   "website": "https://www.walkerforgeorgia.com/",
   "endorsements": [],
   "socialMedia": {
-    "twitter": "",
+    "twitter": null,
     "facebook": "https://www.facebook.com/SenatorLarryWalker/",
-    "instagram": ""
+    "instagram": null
   },
   "sources": [
     "https://www.legis.ga.gov/api/document/docs/default-source/bios/walker--iii-larry-4878.pdf",
