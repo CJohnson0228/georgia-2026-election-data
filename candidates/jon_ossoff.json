@@ -1,1 +1,33 @@
-
+{
+  "id": "jon_ossoff",
+  "name": "Jon Ossoff",
+  "party": "Democratic",
+  "race": "us_senate_ga",
+  "isIncumbent": true,
+  "background": "Senior United States Senator from Georgia. Former investigative journalist and documentary filmmaker. Elected to the U.S. Senate in 2021.",
+  "experience": [
+    "U.S. Senator, Georgia (2021–present)",
+    "Investigative journalist",
+    "Documentary filmmaker"
+  ],
+  "keyIssues": [
+    "Healthcare reform",
+    "Infrastructure investment",
+    "Climate change action"
+  ],
+  "website": "https://electjon.com/",
+  "endorsements": [
+    "Congressman John Lewis", 
+    "Congressman Hank Johnson", 
+    "Georgia State Legislative Black Caucus Chair Rep. Karen Bennett"
+  ],
+  "socialMedia": {
+    "twitter": "@ossoff",
+    "facebook": "https://www.facebook.com/jonossoff/",
+    "instagram": "@jonossoff"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jon_Ossoff",
+    "https://www.ossoff.senate.gov/about/"
+  ]
+}
