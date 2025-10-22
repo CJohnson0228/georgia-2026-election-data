@@ -1,1 +1,29 @@
-
+{
+  "id": "kelvin_king",
+  "name": "Kelvin King",
+  "party": "Republican",
+  "race": "ga_secretaryofstate",
+  "isIncumbent": false,
+  "background": "Businessman and former U.S. Senate candidate. Announced candidacy for Georgia Secretary of State in 2025.",
+  "experience": [
+    "Business owner",
+    "Former U.S. Senate candidate",
+    "Political newcomer"
+  ],
+  "keyIssues": [
+    "Election integrity",
+    "Voter access",
+    "Government transparency"
+  ],
+  "website": "https://www.kelvinking.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@kelvinking4ga",
+    "facebook": "https://www.facebook.com/KelvinKingGA?rdid=Kr5dtIASbg2TBezG&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1LbHKbKL7i%2F",
+    "instagram": "@kelvinking"
+  },
+  "sources": [
+    "https://ballotpedia.org/Kelvin_King",
+    "https://georgiarecorder.com/briefs/former-republican-u-s-senate-candidate-announces-bid-to-be-georgias-top-election-official/"
+  ]
+}
