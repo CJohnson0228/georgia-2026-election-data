@@ -1,1 +1,28 @@
-
+{
+  "id": "reagan_box",
+  "name": "Reagan Box",
+  "party": "Republican",
+  "race": "us_senate",
+  "isIncumbent": false,
+  "background": "Horse trainer and political newcomer; declared candidacy for U.S. Senate representing Georgia in 2026.",
+  "experience": [
+    "Owner/Operator, Horse Training Business",
+    "Political candidate for U.S. Senate"
+  ],
+  "keyIssues": [
+    "Limited government and constitutional conservatism",
+    "Border security and national defense",
+    "Protecting rural Georgia values"
+  ],
+  "website": "https://reaganforsenate.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@ReaganBoxGA",
+    "facebook": "https://www.facebook.com/ReaganBoxGA/",
+    "instagram": null
+  },
+  "sources": [
+    "https://ballotpedia.org/Reagan_Box",
+    "https://x.com/ReaganBoxGA"
+  ]
+}
