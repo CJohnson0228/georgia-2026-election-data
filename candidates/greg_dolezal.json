@@ -1,1 +1,27 @@
-
+{
+  "id": "greg_dolezal",
+  "name": "Greg Dolezal",
+  "party": "Republican",
+  "race": "ga_lt_governor",
+  "isIncumbent": false,
+  "background": "Businessman and former Chair of Forsyth County Republican Party. Running for State Senate District 27.",
+  "experience": [
+    "Chair, Forsyth County Republican Party",
+    "Business owner and entrepreneur"
+  ],
+  "keyIssues": [
+    "Economic development",
+    "Education reform",
+    "Public safety"
+  ],
+  "website": "https://gregdolezal.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@DolezalForGA",
+    "facebook": "https://www.facebook.com/dolezalforgeorgia",
+    "instagram": "@teamdolezal"
+  },
+  "sources": [
+    "https://ballotpedia.org/Greg_Dolezal"
+  ]
+}
