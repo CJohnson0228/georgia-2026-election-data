@@ -4,16 +4,21 @@
   "party": "Democratic",
   "race": "ga_governor",
   "isIncumbent": false,
-  "background": "22-year U.S. Navy veteran, corporate general manager, and Adjunct Professor. Serves as Democratic member of Georgia House, District 68.",
+  "background": "Former Rome City Commissioner and community organizer from Northwest Georgia. Represents rural Democratic voice often underrepresented in statewide races. Focus on economic development in rural communities and bridging urban-rural divide. 22-year U.S. Navy veteran, corporate general manager, and Adjunct Professor. Serves as Democratic member of Georgia House, District 68.",
   "experience": [
     "Georgia House of Representatives, District 68",
     "Corporate management experience",
-    "Military service, U.S. Navy"
+    "Military service, U.S. Navy",
+    "Rome City Commissioner",
+    "Community organizer in Northwest Georgia",
+    "Advocate for rural economic development"
   ],
   "keyIssues": [
-    "Healthcare accessibility",
-    "Economic development in rural areas",
-    "Education reform",
+    "Rural economic development and job creation",
+    "Healthcare access in rural areas",
+    "Infrastructure investment in small towns",
+    "Education funding for rural schools",
+    "Broadband expansion",
     "Gun control"
   ],
   "website": "https://www.votederrickjackson.org/",
