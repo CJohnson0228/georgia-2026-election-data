@@ -4,15 +4,19 @@
   "party": "Democratic",
   "race": "ga_governor",
   "isIncumbent": false,
-  "background": "Former pastor and business owner from East Point, Georgia. Founded and led Impact United Methodist Church and now running for Governor in 2026.",
+  "background": "Senior Pastor of Impact Church, one of the fastest-growing multi-ethnic churches in America. Author and community leader with focus on social justice, economic empowerment, and faith-based organizing. No prior elected office experience.",
   "experience": [
-    "Founder & Lead Pastor, Impact United Methodist Church (Atlanta area)",
-    "Business owner and leadership consultant"
+    "Senior Pastor of Impact Church",
+    "Author and motivational speaker",
+    "Community organizer and social justice advocate",
+    "Faith-based coalition builder"
   ],
   "keyIssues": [
-    "Education reform and improved educator pay",
-    "Affordable healthcare and infrastructure for rural & metro Georgia",
-    "Small business tax breaks and economic development"
+    "Economic empowerment and wealth building",
+    "Social justice and equality",
+    "Faith and values-based leadership",
+    "Education and youth development",
+    "Community development and affordable housing"
   ],
   "website": "https://www.oluforga.com/",
   "endorsements": [],
