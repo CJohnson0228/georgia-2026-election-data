@@ -1,1 +1,24 @@
-
+{
+  "id": "shaw_blackmon",
+  "name": "Shaw Blackmon",
+  "party": "Republican",
+  "race": "ga_house",
+  "isIncumbent": true,
+  "background": "Georgia State Representative (District 146) and candidate for a seat in 2026. Focused on transportation, infrastructure and rural broadband expansion.",
+  "experience": [
+    "Georgia State Representative, District 146 (since 2016)"
+  ],
+  "keyIssues": [
+    "Infrastructure investment",
+    "Rural development and broadband access",
+    "Local economic growth"
+  ],
+  "website": "https://www.shawblackmon.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@ShawBlackmon",
+    "facebook": "https://www.facebook.com/ShawBlackmonGA/",
+    "instagram": null
+  },
+  "sources": []
+}
