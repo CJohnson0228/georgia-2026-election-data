@@ -1,1 +1,30 @@
+{
+  "id": "burt_jones",
+  "name": "Burt Jones",
+  "party": "Republican",
+  "race": "ga_governor",
+  "isIncumbent": true,
+  "background": "Businessman and politician from Jackson, Georgia. Former State Senator and entrepreneur in the insurance sector. Currently serving as Georgia Lieutenant Governor.",
+  "experience": [
+    "Lieutenant Governor of Georgia (2023‑present)",
+    "Georgia State Senator (2013‑2023)",
+    "Business owner, insurance and real estate"
+  ],
+  "keyIssues": [
+    "Economic development and job growth",
+    "Tax reform and fiscal responsibility",
+    "Education and public safety initiatives"
+  ],
+  "website": "https://www.burtjonesforga.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@burtjonesforga",
+    "facebook": "https://www.facebook.com/burtjonesforga",
+    "instagram": "@burtjonesga"
+  },
+  "sources": [
+    "https://ballotpedia.org/Burt_Jones",
+    "https://www.burtjonesforga.com/"
+  ]
+}
 
