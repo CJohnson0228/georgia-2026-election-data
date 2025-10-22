@@ -1,1 +1,29 @@
-
+{
+  "id": "penny_brown_reynolds",
+  "name": "Penny Brown Reynolds",
+  "party": "Democratic",
+  "race": "ga_secretaryofstate",
+  "isIncumbent": false,
+  "background": "Former Fulton County state judge, TV show host and Biden administration appointee; announced campaign for Secretary of State in 2026.",
+  "experience": [
+    "Judge, Fulton County Family Court",
+    "Deputy Assistant Secretary for Civil Rights, U.S. Department of Agriculture",
+    "TV host of \"Family Court with Judge Penny\""
+  ],
+  "keyIssues": [
+    "Election integrity and voting access",
+    "Small business support and fraud protection for seniors",
+    "Restoring public trust in state government"
+  ],
+  "website": "",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "sources": [
+    "https://georgiarecorder.com/briefs/former-judge-and-biden-official-announces-campaign-for-georgia-secretary-of-state/",
+    "https://ballotpedia.org/Penny_Brown_Reynolds"
+  ]
+}
