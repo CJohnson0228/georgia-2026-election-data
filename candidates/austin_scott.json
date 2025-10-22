@@ -1,1 +1,31 @@
+{
+  "id": "austin_scott",
+  "name": "Austin Scott",
+  "party": "Republican",
+  "race": "us_house_ga_8",
+  "isIncumbent": true,
+  "background": "Born December 10, 1969 in Augusta, Georgia. Graduated from Tiftarea Academy in 1987 and earned a B.B.A. from the University of Georgia in 1993. Former small-business owner and insurance brokerage operator.",
+  "experience": [
+    "U.S. Representative, Georgia’s 8th Congressional District (2011-present)",
+    "Member, Georgia House of Representatives (1997-2010)",
+    "Owner/Operator, Southern Group LLC (insurance services)"
+  ],
+  "keyIssues": [
+    "Rural development and agriculture support",
+    "Digital infrastructure in rural America",
+    "Strong national defense and support for military bases",
+    "Small business job growth and conservative fiscal policy"
+  ],
+  "website": "https://austinscott.house.gov/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@AustinScott4GA",
+    "facebook": "https://www.facebook.com/scottforgeorgia",
+    "instagram": "@austinscott_55"
+  },
+  "sources": [
+    "https://history.house.gov/People/Detail/22631",
+    "https://justfacts.votesmart.org/candidate/biography/11812/austin-scott"
+  ]
+}
 
