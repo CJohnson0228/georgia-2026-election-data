@@ -1,1 +1,28 @@
-
+{
+  "id": "chris_carr",
+  "name": "Chris Carr",
+  "party": "Republican",
+  "race": "ga_governor",
+  "isIncumbent": true,
+  "background": "Born in Gainesville, Georgia. Practicing attorney and former deputy state attorney general. Focused on law enforcement, consumer protection, and legal reform.",
+  "experience": [
+    "Attorney General of Georgia (2016‑present)",
+    "Deputy State Attorney General",
+    "Private practice attorney"
+  ],
+  "keyIssues": [
+    "Law enforcement and public safety",
+    "Consumer protection and fraud prevention",
+    "Legal and judicial reform"
+  ],
+  "website": "https://carrforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@ChrisCarr_Ga",
+    "facebook": "https://www.facebook.com/attorneygeneralchriscarr",
+    "instagram": "@chriscarrga"
+  },
+  "sources": [
+    "https://ballotpedia.org/Chris_Carr"
+  ]
+}
