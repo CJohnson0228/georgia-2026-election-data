@@ -1,1 +1,30 @@
+{
+  "id": "buddy_carter",
+  "name": "Buddy Carter",
+  "party": "Republican",
+  "race": "us_senate",
+  "isIncumbent": true,
+  "background": "Born in Savannah, Georgia. Pharmacist and small business owner. Serving as U.S. Representative since 2015 with focus on healthcare, small business, and veterans.",
+  "experience": [
+    "U.S. Representative, Georgia’s 1st Congressional District (2015‑present)",
+    "Georgia State Senator (2005‑2015)",
+    "Pharmacist and business owner"
+  ],
+  "keyIssues": [
+    "Healthcare policy and prescription regulation",
+    "Support for small business and entrepreneurs",
+    "Veteran services and military support"
+  ],
+  "website": "https://buddycarterforcongress.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@RepBuddyCarter",
+    "facebook": "https://www.facebook.com/RepBuddyCarter",
+    "instagram": "@repbuddycarter"
+  },
+  "sources": [
+    "https://ballotpedia.org/Buddy_Carter",
+    "https://buddycarter.house.gov/"
+  ]
+}
 
