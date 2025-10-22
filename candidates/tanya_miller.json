@@ -1,1 +1,24 @@
-
+{
+  "id": "tanya_miller",
+  "name": "Tanya Miller",
+  "party": "Democratic",
+  "race": "ga_attorneygeneral",
+  "isIncumbent": false,
+  "background": "Georgia State Representative (District 62) and candidate for Attorney General in 2026. :contentReference[oaicite:5]{index=5}",
+  "experience": [
+    "Georgia State Representative, District 62 (since 2023)"
+  ],
+  "keyIssues": [
+    "Criminal justice reform",
+    "Consumer protection",
+    "Oversight of prosecutorial practices"
+  ],
+  "website": "https://www.tanyaforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@TanyaForGeorgia",
+    "facebook": "https://www.facebook.com/TanyaForGeorgia/",
+    "instagram": "@tanyaforgeorgia"
+  },
+  "sources": []
+}
