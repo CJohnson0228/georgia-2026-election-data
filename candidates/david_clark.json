@@ -1,1 +1,30 @@
-
+{
+  "id": "david_clark",
+  "name": "David Clark",
+  "party": "Republican",
+  "race": "ga_lt_governor",
+  "isIncumbent": false,
+  "background": "Veteran and small business owner. Member of the Georgia House of Representatives representing District 100.",
+  "experience": [
+    "Georgia House of Representatives, District 100 (2015–present)",
+    "Small business owner",
+    "Veteran"
+  ],
+  "keyIssues": [
+    "Fiscal responsibility",
+    "Veteran affairs",
+    "Economic growth",
+    "Education reform"
+  ],
+  "website": "https://votedavidclark.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@DavidClarkGA",
+    "facebook": "https://www.facebook.com/votedavidclark/",
+    "instagram": "@davidclarkga"
+  },
+  "sources": [
+    "https://votedavidclark.com/",
+    "https://en.wikipedia.org/wiki/David_Clark_(Georgia_politician)"
+  ]
+}
