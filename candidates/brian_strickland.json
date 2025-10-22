@@ -1,1 +1,29 @@
+{
+  "id": "brian_strickland",
+  "name": "Brian Strickland",
+  "party": "Republican",
+  "race": "ga_state_senate_district_17",
+  "isIncumbent": true,
+  "background": "Attorney from Lawrenceville, Georgia. Served in Georgia House of Representatives before election to State Senate. Focused on judiciary, public safety, and business legislation.",
+  "experience": [
+    "Georgia State Senator, District 17 (2019‑present)",
+    "Georgia State Representative (2013‑2018)",
+    "Attorney, private practice"
+  ],
+  "keyIssues": [
+    "Judicial reform and public safety",
+    "Business-friendly legislation",
+    "Local infrastructure development"
+  ],
+  "website": "https://stricklandforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@StricklandForGA",
+    "facebook": "https://www.facebook.com/StricklandForGA/",
+    "instagram": "@stricklandforgeorgia"
+  },
+  "sources": [
+    "https://ballotpedia.org/Brian_Strickland"
+  ]
+}
 
