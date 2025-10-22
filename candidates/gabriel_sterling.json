@@ -1,1 +1,28 @@
-
+{
+  "id": "gabriel_sterling",
+  "name": "Gabriel Sterling",
+  "party": "Republican",
+  "race": "ga_secretary_of_state",
+  "isIncumbent": false,
+  "background": "Georgia elections official and politician. Former COO in Georgia Secretary of State's office. Running for Secretary of State.",
+  "experience": [
+    "Chief Operating Officer, GA Secretary of State's office",
+    "Sandy Springs city council member"
+  ],
+  "keyIssues": [
+    "Election integrity",
+    "Voter access",
+    "Government transparency"
+  ],
+  "website": "https://gabrielsterling.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@GabrielSterling",
+    "facebook": "https://www.facebook.com/gabrielsterlingga/",
+    "instagram": "@gabrielsterling"
+  },
+  "sources": [
+    "https://gabrielsterling.com/",
+    "https://en.wikipedia.org/wiki/Gabriel_Sterling"
+  ]
+}
