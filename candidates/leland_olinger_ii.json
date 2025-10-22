@@ -1,1 +1,28 @@
+{
+  "id": "leland_olinger_ii",
+  "name": "Leland Olinger II",
+  "party": "Republican",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "Businessman and political newcomer from Georgia.",
+  "experience": [
+    "Business owner",
+    "Political newcomer"
+  ],
+  "keyIssues": [
+    "Economic development",
+    "Fiscal responsibility",
+    "Education"
+  ],
+  "website": "",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "sources": [
+    "https://ballotpedia.org/Leland_Olinger_II"
+  ]
+}
 
