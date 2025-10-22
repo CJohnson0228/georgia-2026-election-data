@@ -1,1 +1,25 @@
-
+"id": "ruwa-romman",
+"name": "Ruwa Romman",
+"party": "Democratic",
+"race": "ga_governor",
+"isIncumbent": false,
+"background": "Georgia State Representative from District 97 (Gwinnett County). First Muslim woman elected to Georgia General Assembly. Former systems engineer with focus on technology policy, healthcare, and representation of diverse communities.",
+"experience": [
+  "Georgia State Representative, District 97 (2023-present)",
+  "Systems engineer in technology sector",
+  "Community organizer and advocate for diverse representation"
+],
+"keyIssues": [
+  "Healthcare expansion and affordability",
+  "Technology and innovation policy",
+  "Diverse representation in government",
+  "Education and student debt relief",
+  "Women's reproductive rights"
+],
+"website": "https://www.ruwaforgeorgia.com/",
+"endorsements": [],
+"socialMedia": {
+  "twitter": "Ruwa4Georgia",
+  "facebook": "https://www.facebook.com/Ruwa4Georgia",
+  "instagram": "@ruwa4georgia"
+}
