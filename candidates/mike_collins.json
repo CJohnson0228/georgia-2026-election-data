@@ -1,1 +1,29 @@
-
+{
+  "id": "mike_collins",
+  "name": "Mike Collins",
+  "party": "Republican",
+  "race": "us_senate",
+  "isIncumbent": false,
+  "background": "U.S. Representative for Georgia’s 10th District. Announced his campaign for U.S. Senate in 2026 to challenge incumbent Senator Jon Ossoff.",
+  "experience": [
+    "U.S. Representative, Georgia District 10 (2023-present)",
+    "Trucking company owner"
+  ],
+  "keyIssues": [
+    "Border security and immigration enforcement",
+    "Rural economic development",
+    "Challenging incumbent Democratic leadership in Georgia’s Senate seat"
+  ],
+  "website": "https://mikecollinsga.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@MikeCollinsGA",
+    "facebook": "https://www.facebook.com/MikeCollinsGA10",
+    "instagram": "@mikecollinsga"
+  },
+  "sources": [
+    "https://www.13wmaz.com/article/news/politics/georgia-rep-mike-collins-announces-2026-senate-bid-against-ossoff/93-c8e628d6-cd4e218923611",
+    "https://rollcall.com/2025/07/28/georgia-senate-election-mike-collins-ossoff/",
+    "https://news.ballotpedia.org/2025/07/30/rep-mike-collins-becomes-the-eighth-representative-to-announce-a-u-s-senate-bid-for-2026/"
+  ]
+}
