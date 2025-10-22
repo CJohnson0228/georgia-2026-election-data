@@ -1,1 +1,29 @@
+{
+  "id": "brenda_nelson-porter",
+  "name": "Brenda Nelson-Porter",
+  "party": "Democratic",
+  "race": "ga_lt_governor",
+  "isIncumbent": false,
+  "background": "Community activist and nonprofit leader in Georgia. Advocates for education, healthcare access, and local economic development.",
+  "experience": [
+    "Nonprofit executive",
+    "Community organizer and advocate",
+    "Candidate for Georgia State Senate"
+  ],
+  "keyIssues": [
+    "Education equity",
+    "Healthcare expansion and affordability",
+    "Community economic development"
+  ],
+  "website": "",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "",
+    "facebook": "",
+    "instagram": ""
+  },
+  "sources": [
+    "https://ballotpedia.org/Brenda_Nelson-Porter"
+  ]
+}
 
