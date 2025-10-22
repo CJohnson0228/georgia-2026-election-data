@@ -1,1 +1,28 @@
-
+{
+  "id": "richard_wright",
+  "name": "Richard Wright",
+  "party": "Democratic",
+  "race": "ga_lt_governor",
+  "isIncumbent": false,
+  "background": "Business professional and candidate for Lieutenant Governor of Georgia in 2026. :contentReference[oaicite:3]{index=3}",
+  "experience": [
+    "Business owner",
+    "Political candidate"
+  ],
+  "keyIssues": [
+    "New leadership and vision for Georgia",
+    "Education and workforce development",
+    "Economic opportunity and reform"
+  ],
+  "website": "https://wrightforgeorgia2026.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": "https://www.facebook.com/p/Wright-For-Georgia-61556466051229/",
+    "instagram": "@wrightforgeorgia"
+  },
+  "sources": [
+    "https://ballotpedia.org/Richard_Wright_(Georgia)",
+    "https://www.instagram.com/wrightforgeorgia/"
+  ]
+}
