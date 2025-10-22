@@ -4,15 +4,19 @@
   "party": "Democratic",
   "race": "ga_governor",
   "isIncumbent": false,
-  "background": "Former 12th Lieutenant Governor of Georgia (2019–2023) and Georgia House member (2013–2017). Running for Governor as a Democrat.",
+  "background": "Former Lieutenant Governor (2019-2023) running as moderate Republican. Became prominent critic of election denialism after 2020. Former entrepreneur and minor league baseball player. May appeal to moderate Republicans and independents.",
   "experience": [
-    "Lieutenant Governor of Georgia (2019–2023)",
-    "Georgia House of Representatives (2013–2017)"
+    "Lieutenant Governor of Georgia (2019-2023)",
+    "Georgia State Representative (2013-2019)",
+    "Entrepreneur and business owner",
+    "Professional baseball player"
   ],
   "keyIssues": [
-    "Affordable housing",
-    "Healthcare access",
-    "Economic development"
+    "Election integrity and democracy",
+    "Moderate Republican governance",
+    "Economic growth and business development",
+    "Bipartisan cooperation",
+    "Criminal justice reform"
   ],
   "website": "https://www.duncanforgeorgia.com/",
   "endorsements": [],
