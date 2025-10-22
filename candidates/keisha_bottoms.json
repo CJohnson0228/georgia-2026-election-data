@@ -1,26 +1,32 @@
-"id": "keisha-lance-bottoms",
-"name": "Keisha Lance Bottoms",
-"party": "Democratic",
-"race": "ga_governor",
-"isIncumbent": false,
-"background": "Former Atlanta Mayor (2018-2022) and Senior Advisor to President Biden. Led Atlanta through civil unrest following George Floyd's murder and the COVID-19 pandemic. Known for pragmatic leadership and national Democratic Party prominence.",
-"experience": [
-  "Mayor of Atlanta (2018-2022)",
-  "Senior Advisor to President Biden for Public Engagement",
-  "Atlanta City Council member (2010-2018)",
-  "Judge in Atlanta Municipal Court"
-],
-"keyIssues": [
-  "Criminal justice reform and public safety",
-  "Economic development and job creation",
-  "Healthcare access and affordability",
-  "Education funding and quality",
-  "Voting rights protection"
-],
-"website": "https://keishalancebottoms.com/",
-"endorsements": [],
-"socialMedia": {
-  "twitter": "@KeishaBottoms",
-  "facebook": "https://www.facebook.com/keisha.bottoms/",
-  "instagram": "@keishabottoms"
+{
+  "id": "keisha-lance-bottoms",
+  "name": "Keisha Lance Bottoms",
+  "party": "Democratic",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "Former Atlanta Mayor (2018-2022) and Senior Advisor to President Biden. Led Atlanta through civil unrest following George Floyd's murder and the COVID-19 pandemic. Known for pragmatic leadership and national Democratic Party prominence.",
+  "experience": [
+    "Mayor of Atlanta (2018-2022)",
+    "Senior Advisor to President Biden for Public Engagement",
+    "Atlanta City Council member (2010-2018)",
+    "Judge in Atlanta Municipal Court"
+  ],
+  "keyIssues": [
+    "Criminal justice reform and public safety",
+    "Economic development and job creation",
+    "Healthcare access and affordability",
+    "Education funding and quality",
+    "Voting rights protection"
+  ],
+  "website": "https://www.keishaforgovernor.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@KeishaBottoms",
+    "facebook": "https://www.facebook.com/KeishaForGA",
+    "instagram": "@keishabottoms"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Keisha_Lance_Bottoms",
+    "https://www.keishaforgovernor.com/about"
+  ]
 }
