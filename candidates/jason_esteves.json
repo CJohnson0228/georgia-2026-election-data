@@ -1,1 +1,28 @@
-
+"id": "jason-esteves",
+"name": "Jason Esteves",
+"party": "Democratic",
+"race": "ga_governor",
+"isIncumbent": false,
+"background": "Atlanta City Council member representing Midtown and parts of Buckhead. First openly gay man elected to Atlanta City Council. Background in urban planning and community development with focus on transit and affordable housing.",
+"experience": [
+  "Atlanta City Council member (2017-present)",
+  "Urban planner and community development professional",
+  "Advocate for LGBTQ+ rights and inclusive policies"
+],
+"keyIssues": [
+  "Public transportation expansion",
+  "Affordable housing development",
+  "LGBTQ+ equality and civil rights",
+  "Climate action and sustainability",
+  "Urban development and smart growth"
+],
+"website": "https://www.jasonesteves.com/?takeover",
+"endorsements": [
+  "Shanette Williams",
+  "Jason Carter"
+],
+"socialMedia": {
+  "twitter": "@jasonesteves",
+  "facebook": "https://www.facebook.com/jasonestevesforgovernor/",
+  "instagram": "@jasonesteves"
+}
