@@ -1,25 +1,30 @@
-"id": "derrick-jackson",
-"name": "Derrick Jackson",
-"party": "Democratic",
-"race": "ga_governor",
-"isIncumbent": false,
-"background": "Former Rome City Commissioner and community organizer from Northwest Georgia. Represents rural Democratic voice often underrepresented in statewide races. Focus on economic development in rural communities and bridging urban-rural divide.",
-"experience": [
-  "Rome City Commissioner",
-  "Community organizer in Northwest Georgia",
-  "Advocate for rural economic development"
-],
-"keyIssues": [
-  "Rural economic development and job creation",
-  "Healthcare access in rural areas",
-  "Infrastructure investment in small towns",
-  "Education funding for rural schools",
-  "Broadband expansion"
-],
-"website": "https://www.votederrickjackson.org/",
-"endorsements": [],
-"socialMedia": {
-  "twitter": null,
-  "facebook": null,
-  "instagram": null
+{
+  "id": "derrick_jackson",
+  "name": "Derrick Jackson",
+  "party": "Democratic",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "22-year U.S. Navy veteran, corporate general manager, and Adjunct Professor. Serves as Democratic member of Georgia House, District 68.",
+  "experience": [
+    "Georgia House of Representatives, District 68",
+    "Corporate management experience",
+    "Military service, U.S. Navy"
+  ],
+  "keyIssues": [
+    "Healthcare accessibility",
+    "Economic development in rural areas",
+    "Education reform",
+    "Gun control"
+  ],
+  "website": "https://www.votederrickjackson.org/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "sources": [
+    "https://www.votederrickjackson.org/",
+    "https://apnews.com/article/8b7865a1af70534996af878d89cd42c1"
+  ]
 }
