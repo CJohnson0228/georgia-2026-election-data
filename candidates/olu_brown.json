@@ -1,1 +1,29 @@
-
+{
+  "id": "olu_brown",
+  "name": "Olu Brown",
+  "party": "Democratic",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "Former pastor and business owner from East Point, Georgia. Founded and led Impact United Methodist Church and now running for Governor in 2026.",
+  "experience": [
+    "Founder & Lead Pastor, Impact United Methodist Church (Atlanta area)",
+    "Business owner and leadership consultant"
+  ],
+  "keyIssues": [
+    "Education reform and improved educator pay",
+    "Affordable healthcare and infrastructure for rural & metro Georgia",
+    "Small business tax breaks and economic development"
+  ],
+  "website": "https://www.oluforga.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": "https://www.facebook.com/oluforga",
+    "instagram": "@oluforga"
+  },
+  "sources": [
+    "https://www.ajc.com/news/impact-churchs-former-pastor-olu-brown-announces-bid-for-georgia-governor/KWIGNX5IJRGNNC7JTZA5LTPK2Y5U/",
+    "https://ballotpedia.org/Olu_Brown",
+    "https://x.com/olubrownforgov"
+  ]
+}
