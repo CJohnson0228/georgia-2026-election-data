@@ -1,1 +1,27 @@
-
+{
+  "id": "gregg_kirkpatrick",
+  "name": "Gregg Kirkpatrick",
+  "party": "Republican",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "Businessman and local leader in Georgia.",
+  "experience": [
+    "Business owner",
+    "Community leader"
+  ],
+  "keyIssues": [
+    "Economic development",
+    "Education",
+    "Government efficiency"
+  ],
+  "website": "",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "sources": [
+    "https://ballotpedia.org/Gregg_Kirkpatrick"
+  ]
+}
