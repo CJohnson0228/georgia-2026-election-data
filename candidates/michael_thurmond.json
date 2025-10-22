@@ -4,16 +4,19 @@
   "party": "Democratic",
   "race": "ga_governor",
   "isIncumbent": false,
-  "background": "Former DeKalb County CEO and Georgia Labor Commissioner. Announced his campaign for Governor of Georgia in 2026.",
+  "background": "DeKalb County CEO and former Georgia Labor Commissioner. Long record of public service including state legislature. Known for strong administrative skills, fiscal management, and delivering results in large government operations.",
   "experience": [
-    "CEO, DeKalb County",
-    "Labor Commissioner of Georgia",
-    "Georgia state legislator"
+    "DeKalb County CEO (2017-present)",
+    "Georgia Labor Commissioner (1998-2011)",
+    "Georgia State Representative (1986-1993)",
+    "Georgia State Senator (1993-1997)"
   ],
   "keyIssues": [
-    "Healthcare access and expansion",
-    "Education reform and multiple pathways to success",
-    "Bridging political and racial divides in Georgia governance"
+    "Economic development and workforce training",
+    "Fiscal responsibility and government efficiency",
+    "Criminal justice reform",
+    "Infrastructure modernization",
+    "Public safety and community policing"
   ],
   "website": "https://www.mikethurmond.com/about",
   "endorsements": [],
