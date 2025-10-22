@@ -1,1 +1,28 @@
-
+{
+  "id": "geoff_duncan",
+  "name": "Geoff Duncan",
+  "party": "Democratic",
+  "race": "ga_governor",
+  "isIncumbent": false,
+  "background": "Former 12th Lieutenant Governor of Georgia (2019–2023) and Georgia House member (2013–2017). Running for Governor as a Democrat.",
+  "experience": [
+    "Lieutenant Governor of Georgia (2019–2023)",
+    "Georgia House of Representatives (2013–2017)"
+  ],
+  "keyIssues": [
+    "Affordable housing",
+    "Healthcare access",
+    "Economic development"
+  ],
+  "website": "https://www.duncanforgeorgia.com/",
+  "endorsements": [],
+  "socialMedia": {
+    "twitter": "@GeoffDuncanGA",
+    "facebook": null,
+    "instagram": "@geoffduncan_ga"
+  },
+  "sources": [
+    "https://www.duncanforgeorgia.com/",
+    "https://en.wikipedia.org/wiki/Geoff_Duncan"
+  ]
+}
