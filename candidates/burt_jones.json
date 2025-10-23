@@ -4,7 +4,7 @@
   "photoUrl": "https://twt-thumbs.washtimes.com/media/image/2023/12/18/Georgia_Election_Investigation_Lt._Governor_82155_c0-283-6000-3783_s1200x700.jpg?114129e46017a88edd583429928901ca3a8021ae",
   "party": "Republican",
   "race": "ga_governor",
-  "isIncumbent": true,
+  "isIncumbent": false,
   "background": "Businessman and politician from Jackson, Georgia. Former State Senator and entrepreneur in the insurance sector. Currently serving as Georgia Lieutenant Governor.",
   "experience": [
     "Lieutenant Governor of Georgia (2023‑present)",
