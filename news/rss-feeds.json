@@ -47,6 +47,42 @@
       "category": "local",
       "priority": 2,
       "description": "Local news about SD-20 and Houston County"
+    },
+    {
+      "id": "ajc-politics",
+      "name": "Atlanta Journal-Constitution Politics",
+      "url": "https://www.ajc.com/news/politics/feed/",
+      "description": "Georgia's largest newspaper politics section"
+    },
+    {
+      "id": "gpb-news",
+      "name": "Georgia Public Broadcasting",
+      "url": "https://www.gpb.org/news/feed",
+      "description": "Public radio news for Georgia"
+    },
+    {
+      "id": "georgia-recorder",
+      "name": "Georgia Recorder",
+      "url": "https://georgiarecorder.com/feed/",
+      "description": "Independent nonprofit Georgia news"
+    },
+    {
+      "id": "politico-georgia",
+      "name": "Politico Georgia",
+      "url": "https://www.politico.com/rss/georgia.xml",
+      "description": "National politics with Georgia focus"
+    },
+    {
+      "id": "fox5-atlanta",
+      "name": "Fox5 Atlanta Politics",
+      "url": "https://www.fox5atlanta.com/politics.rss",
+      "description": "Atlanta local news politics"
+    },
+    {
+      "id": "gapundit",
+      "name": "GaPundit",
+      "url": "https://gapundit.com/feed/",
+      "description": "Georgia political analysis blog"
     }
   ],
   "categories": {
