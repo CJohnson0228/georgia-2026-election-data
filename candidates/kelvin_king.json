@@ -1,6 +1,7 @@
 {
   "id": "kelvin_king",
   "name": "Kelvin King",
+  "photoUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/kking.jpeg",
   "party": "Republican",
   "race": "ga_secretaryofstate",
   "isIncumbent": false,

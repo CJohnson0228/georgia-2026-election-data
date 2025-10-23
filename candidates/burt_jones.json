@@ -1,6 +1,7 @@
 {
   "id": "burt_jones",
   "name": "Burt Jones",
+  "photoUrl": "https://twt-thumbs.washtimes.com/media/image/2023/12/18/Georgia_Election_Investigation_Lt._Governor_82155_c0-283-6000-3783_s1200x700.jpg?114129e46017a88edd583429928901ca3a8021ae",
   "party": "Republican",
   "race": "ga_governor",
   "isIncumbent": true,
@@ -27,4 +28,3 @@
     "https://www.burtjonesforga.com/"
   ]
 }
-

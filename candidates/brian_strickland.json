@@ -1,6 +1,7 @@
 {
   "id": "brian_strickland",
   "name": "Brian Strickland",
+  "photoUrl": "https://georgiara.com/wp-content/uploads/2021/08/strickland-696x600.jpg",
   "party": "Republican",
   "race": "ga_attorneygeneral",
   "isIncumbent": true,
@@ -22,8 +23,5 @@
     "facebook": "https://www.facebook.com/StricklandForGA/",
     "instagram": "@stricklandforgeorgia"
   },
-  "sources": [
-    "https://ballotpedia.org/Brian_Strickland"
-  ]
+  "sources": ["https://ballotpedia.org/Brian_Strickland"]
 }
-

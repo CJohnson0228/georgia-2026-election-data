@@ -1,1 +1,19 @@
-
+{
+  "id": "lt-governor",
+  "title": "Lieutenant Governor",
+  "openSeat": true,
+  "subtitle": "President of the Georgia Senate",
+  "aboutContent": "The Lieutenant Governor presides over the Georgia State Senate, wielding significant power over which bills advance and which die in committee. This position determines the legislative agenda and can make or break critical legislation on healthcare, education, and civil rights. The Lt. Governor also serves as acting Governor when the Governor is out of state and is first in the line of succession.",
+  "candidatesContent": "Democratic candidates will be posted as campaigns are announced. This race is critical for advancing progressive legislation in Georgia.",
+  "newsTitle": "Lt. Governor Race News",
+  "raceFilter": "ga_lt_governor",
+  "raceTags": ["ga_lt_governor", "ga_executive", "ga_state", "statewide"],
+  "externalIds": {
+    "transparencyUSA": "ga-lt-governor-2026"
+  },
+  "electionInfo": {
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 4
+  }
+}

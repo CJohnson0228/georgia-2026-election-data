@@ -1,6 +1,7 @@
 {
   "id": "chris_carr",
   "name": "Chris Carr",
+  "photoUrl": "https://law.georgia.gov/sites/law.georgia.gov/files/styles/square/public/2020-03/top_2019_ag_headshots_3.jpg?h=47f8d3d6&itok=MqaZvLwS",
   "party": "Republican",
   "race": "ga_governor",
   "isIncumbent": true,
@@ -22,7 +23,5 @@
     "facebook": "https://www.facebook.com/attorneygeneralchriscarr",
     "instagram": "@chriscarrga"
   },
-  "sources": [
-    "https://ballotpedia.org/Chris_Carr"
-  ]
+  "sources": ["https://ballotpedia.org/Chris_Carr"]
 }

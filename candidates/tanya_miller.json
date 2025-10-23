@@ -1,13 +1,12 @@
 {
   "id": "tanya_miller",
   "name": "Tanya Miller",
+  "photoUrl": "https://atlantaciviccircle.org/wp-content/uploads/2022/10/Tanya_F_Miller_State_House_District_62_candidate-1.jpg",
   "party": "Democratic",
   "race": "ga_attorneygeneral",
   "isIncumbent": false,
   "background": "Georgia State Representative (District 62) and candidate for Attorney General in 2026. :contentReference[oaicite:5]{index=5}",
-  "experience": [
-    "Georgia State Representative, District 62 (since 2023)"
-  ],
+  "experience": ["Georgia State Representative, District 62 (since 2023)"],
   "keyIssues": [
     "Criminal justice reform",
     "Consumer protection",

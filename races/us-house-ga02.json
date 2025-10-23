@@ -1,0 +1,21 @@
+{
+  "id": "us-house-ga02",
+  "title": "U.S. House GA-02",
+  "openSeat": true,
+  "subtitle": "Southwest Georgia's Voice in Congress",
+  "aboutContent": "Georgia's 2nd Congressional District includes portions of Houston County and sends one Representative to Washington, D.C. Your Member of Congress votes on federal legislation affecting healthcare, social security, veterans' benefits, farm policy, and national defense. With only 435 House members representing the entire country, your Representative's vote carries significant weight on issues that impact your family's future.",
+  "candidatesContent": "Democratic candidates for GA-02 will be posted as campaigns are announced. Help elect a Representative who will fight for Southwest Georgia in Washington.",
+  "newsTitle": "GA-02 Race News",
+  "raceFilter": "us_house_ga02",
+  "raceTags": ["us_house", "us_federal", "federal_legislature", "houston_county"],
+  "externalIds": {
+    "openFEC": "H6GA02",
+    "ballotpedia": "Georgia's_2nd_Congressional_District"
+  },
+  "electionInfo": {
+    "district": "GA-02",
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ga-senate-sd20",
+  "title": "Georgia Senate District 20",
+  "openSeat": true,
+  "subtitle": "Your Voice in the State Capitol",
+  "aboutContent": "State Senate District 20 covers parts of Houston County and surrounding areas. Your State Senator represents you in Atlanta, voting on the state budget, education funding, healthcare policy, criminal justice reform, and local issues that directly impact our community. State Senators serve two-year terms and have significant influence over legislation that affects your daily life.",
+  "candidatesContent": "Democratic candidates for SD-20 will be posted as campaigns are announced. This is YOUR seat—help elect a senator who shares our values.",
+  "newsTitle": "SD-20 Race News",
+  "raceFilter": "ga_senate_sd20",
+  "raceTags": ["ga_senate", "ga_state", "state_legislature", "houston_county"],
+  "externalIds": {
+    "transparencyUSA": "ga-senate-sd20-2026"
+  },
+  "electionInfo": {
+    "district": "SD-20",
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 2
+  }
+}

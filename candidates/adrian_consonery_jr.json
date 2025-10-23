@@ -1,7 +1,7 @@
 {
   "id": "adrian_consonery_jr",
   "name": "Adrian Consonery Jr.",
-  "photoURL": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/250/450/aconsonery.jpeg"
+  "photoUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/250/450/aconsonery.jpeg",
   "party": "Democratic",
   "race": "ga_secretaryofstate",
   "isIncumbent": false,

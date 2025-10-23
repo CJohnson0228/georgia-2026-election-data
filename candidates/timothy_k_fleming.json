@@ -1,18 +1,13 @@
 {
   "id": "timothy_k_fleming",
   "name": "Timothy K. Fleming",
+  "photoUrl": "https://covingtonnews.cdn-anvilcms.net/media/images/2024/01/24/images/fleming_covnew.max-1200x675.jpg",
   "party": "Republican",
   "race": "ga_secretaryofstate",
   "isIncumbent": false,
   "background": "Georgia State Representative and declared candidate for Secretary of State in 2026.",
-  "experience": [
-    "Georgia State Representative"
-  ],
-  "keyIssues": [
-    "Election reform",
-    "Voter access",
-    "Government transparency"
-  ],
+  "experience": ["Georgia State Representative"],
+  "keyIssues": ["Election reform", "Voter access", "Government transparency"],
   "website": "",
   "endorsements": [],
   "socialMedia": {

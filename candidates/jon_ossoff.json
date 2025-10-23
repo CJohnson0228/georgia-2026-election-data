@@ -1,6 +1,7 @@
 {
   "id": "jon_ossoff",
   "name": "Jon Ossoff",
+  "photoUrl": "https://americustimesrecorder.com/wp-content/uploads/sites/43/2025/02/Ossoff-scaled-e1742309490854.jpg",
   "party": "Democratic",
   "race": "us_senate",
   "isIncumbent": true,
@@ -17,8 +18,8 @@
   ],
   "website": "https://electjon.com/",
   "endorsements": [
-    "Congressman John Lewis", 
-    "Congressman Hank Johnson", 
+    "Congressman John Lewis",
+    "Congressman Hank Johnson",
     "Georgia State Legislative Black Caucus Chair Rep. Karen Bennett"
   ],
   "socialMedia": {

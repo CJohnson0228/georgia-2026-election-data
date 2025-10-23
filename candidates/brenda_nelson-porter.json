@@ -1,6 +1,7 @@
 {
   "id": "brenda_nelson-porter",
   "name": "Brenda Nelson-Porter",
+  "photoUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/250/450/Brenda_Nelson_Porter_2025.jpg",
   "party": "Democratic",
   "race": "ga_lt_governor",
   "isIncumbent": false,
@@ -22,8 +23,5 @@
     "facebook": null,
     "instagram": null
   },
-  "sources": [
-    "https://ballotpedia.org/Brenda_Nelson-Porter"
-  ]
+  "sources": ["https://ballotpedia.org/Brenda_Nelson-Porter"]
 }
-

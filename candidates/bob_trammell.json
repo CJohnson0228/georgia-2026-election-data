@@ -1,6 +1,7 @@
 {
   "id": "bob_trammell",
   "name": "Bob Trammell",
+  "photoUrl": "https://healthyfuturega.org/wp-content/uploads/2018/06/trammellBob-683x1024.jpg",
   "party": "Democratic",
   "race": "ga_attorneygeneral",
   "isIncumbent": false,
@@ -27,4 +28,3 @@
     "https://www.ourcampaigns.com/CandidateDetail.html?CandidateID=317202"
   ]
 }
-

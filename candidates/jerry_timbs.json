@@ -1,6 +1,7 @@
 {
   "id": "jerry_timbs",
   "name": "Jerry Timbs",
+  "photoUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JerryTimbs2025.jpg",
   "party": "Republican",
   "race": "ga_lt_governor",
   "isIncumbent": false,
@@ -10,11 +11,7 @@
     "Community leader",
     "First-time political candidate"
   ],
-  "keyIssues": [
-    "Economic development",
-    "Education reform",
-    "Public safety"
-  ],
+  "keyIssues": ["Economic development", "Education reform", "Public safety"],
   "website": "",
   "endorsements": [],
   "socialMedia": {

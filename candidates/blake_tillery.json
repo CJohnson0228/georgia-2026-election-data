@@ -1,6 +1,7 @@
 {
   "id": "blake_tillery",
   "name": "Blake Tillery",
+  "photoUrl": "https://southeastgeorgiatoday.com/images/Blake-Tillery-headshot-1-683x1024.jpg",
   "party": "Republican",
   "race": "ga_lt_governor",
   "isIncumbent": true,
@@ -25,7 +26,6 @@
   "sources": [
     "https://www.senate.ga.gov/senators/en-us/member.aspx?Member=4908",
     "https://ballotpedia.org/Blake_Tillery",
-    "https://tilleryforgeorgia.com",
+    "https://tilleryforgeorgia.com"
   ]
 }
-

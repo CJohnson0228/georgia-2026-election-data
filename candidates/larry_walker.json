@@ -1,8 +1,9 @@
 {
   "id": "larry_walker",
   "name": "Larry Walker III",
+  "photoUrl": "https://dvo53oxmpmca8.cloudfront.net/wp-content/uploads/2015/04/Larry-Walker-III-300-px.jpg",
   "party": "Republican",
-  "race": "ga_senate",
+  "race": "ga_senate_sd20",
   "isIncumbent": true,
   "background": "Georgia State Senator for District 20. Chairman of the Senate Insurance and Labor Committee.",
   "experience": [
@@ -10,11 +11,7 @@
     "Chairman, Senate Insurance and Labor Committee",
     "Businessman"
   ],
-  "keyIssues": [
-    "Insurance reform",
-    "Labor laws",
-    "Economic development"
-  ],
+  "keyIssues": ["Insurance reform", "Labor laws", "Economic development"],
   "website": "https://www.walkerforgeorgia.com/",
   "endorsements": [],
   "socialMedia": {

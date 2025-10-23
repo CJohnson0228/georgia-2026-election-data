@@ -1,6 +1,7 @@
 {
   "id": "clark_dean",
   "name": "Clark Dean",
+  "photoUrl": "https://s3.amazonaws.com/transwestern-userphoto/CDEAN1.jpg",
   "party": "Republican",
   "race": "ga_governor",
   "isIncumbent": false,

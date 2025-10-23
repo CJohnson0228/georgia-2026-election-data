@@ -1,6 +1,7 @@
 {
   "id": "reagan_box",
   "name": "Reagan Box",
+  "photoUrl": "https://static.wixstatic.com/media/d32258_51228c48ec334d80b5ede2a59baa97c1~mv2.jpeg/v1/fill/w_560,h_560,al_c,lg_1,q_80/d32258_51228c48ec334d80b5ede2a59baa97c1~mv2.jpeg",
   "party": "Republican",
   "race": "us_senate",
   "isIncumbent": false,
@@ -21,8 +22,5 @@
     "facebook": "https://www.facebook.com/ReaganBoxGA/",
     "instagram": null
   },
-  "sources": [
-    "https://ballotpedia.org/Reagan_Box",
-    "https://x.com/ReaganBoxGA"
-  ]
+  "sources": ["https://ballotpedia.org/Reagan_Box", "https://x.com/ReaganBoxGA"]
 }

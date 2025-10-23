@@ -1,1 +1,19 @@
-
+{
+  "id": "attorney-general",
+  "title": "Attorney General",
+  "openSeat": true,
+  "subtitle": "Georgia's Top Law Enforcement Officer",
+  "aboutContent": "The Attorney General serves as Georgia's chief lawyer and law enforcement official, defending state laws in court, prosecuting consumer fraud, and advising state agencies on legal matters. This office has enormous power to protect voting rights, combat price gouging, defend reproductive freedom, and challenge unconstitutional federal actions. The Attorney General can be a champion for justice or an obstacle to progress.",
+  "candidatesContent": "Democratic candidates will be posted as campaigns are announced. The Attorney General will play a vital role in protecting Georgians' rights.",
+  "newsTitle": "Attorney General Race News",
+  "raceFilter": "ga_attorneygeneral",
+  "raceTags": ["ga_attorneygeneral", "ga_executive", "ga_state", "statewide"],
+  "externalIds": {
+    "transparencyUSA": "ga-attorney-general-2026"
+  },
+  "electionInfo": {
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 4
+  }
+}

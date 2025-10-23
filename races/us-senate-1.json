@@ -1,1 +1,20 @@
-
+{
+  "id": "us-senate-1",
+  "title": "U.S. Senate",
+  "openSeat": false,
+  "subtitle": "Georgia's Voice in Washington",
+  "aboutContent": "One of Georgia's two U.S. Senate seats will be on the ballot in 2026. U.S. Senators serve six-year terms and represent the entire state in Washington, voting on Supreme Court nominees, federal judges, treaties, and major legislation. With only 100 Senators representing all 50 states, Georgia's Senators wield enormous influence over national policy. This race will help determine control of the Senate and the direction of the country.",
+  "candidatesContent": "Information about candidates for Georgia's U.S. Senate seat will be posted as campaigns are announced. This is one of the most important races in the country.",
+  "newsTitle": "U.S. Senate Race News",
+  "raceFilter": "us_senate_ga",
+  "raceTags": ["us_senate", "us_federal", "federal_legislature", "statewide"],
+  "externalIds": {
+    "openFEC": "S6GA",
+    "ballotpedia": "United_States_Senate_election_in_Georgia,_2026"
+  },
+  "electionInfo": {
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 6
+  }
+}

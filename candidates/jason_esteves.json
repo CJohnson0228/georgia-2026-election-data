@@ -1,6 +1,7 @@
 {
   "id": "jason-esteves",
   "name": "Jason Esteves",
+  "photoUrl": "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/5/b5/5b554f8f-239d-5e5a-933d-516c2573b11b/6589f0f675fc3.image.jpg?resize=1200%2C1608",
   "party": "Democratic",
   "race": "ga_governor",
   "isIncumbent": false,
@@ -18,16 +19,13 @@
     "Urban development and smart growth"
   ],
   "website": "https://www.jasonesteves.com/?takeover",
-  "endorsements": [
-    "Shanette Williams",
-    "Jason Carter"
-  ],
+  "endorsements": ["Shanette Williams", "Jason Carter"],
   "socialMedia": {
     "twitter": "@jasonesteves",
     "facebook": "https://www.facebook.com/jasonestevesforgovernor/",
     "instagram": "@jasonesteves"
   },
-   "sources": [
+  "sources": [
     "https://en.wikipedia.org/wiki/Jason_Esteves",
     "https://www.jasonesteves.com/about"
   ]

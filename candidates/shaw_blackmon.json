@@ -1,13 +1,12 @@
 {
   "id": "shaw_blackmon",
   "name": "Shaw Blackmon",
+  "photoUrl": "https://hhjonline.com/wp-content/uploads/2024/07/Blackmon_Headshot-683x1024.jpeg",
   "party": "Republican",
-  "race": "ga_house",
+  "race": "ga_house_hd146",
   "isIncumbent": true,
   "background": "Georgia State Representative (District 146) and candidate for a seat in 2026. Focused on transportation, infrastructure and rural broadband expansion.",
-  "experience": [
-    "Georgia State Representative, District 146 (since 2016)"
-  ],
+  "experience": ["Georgia State Representative, District 146 (since 2016)"],
   "keyIssues": [
     "Infrastructure investment",
     "Rural development and broadband access",

@@ -1,0 +1,21 @@
+{
+  "id": "us-house-ga08",
+  "title": "U.S. House GA-08",
+  "openSeat": true,
+  "subtitle": "Houston County's Voice in Congress",
+  "aboutContent": "Georgia's 8th Congressional District includes all of Houston County and sends one Representative to Washington, D.C. Your Member of Congress votes on federal legislation affecting healthcare, social security, veterans' benefits, farm policy, and national defense. With only 435 House members representing the entire country, your Representative's vote carries significant weight on issues that impact your family's future.",
+  "candidatesContent": "Democratic candidates for GA-08 will be posted as campaigns are announced. Help elect a Representative who will fight for Middle Georgia in Washington.",
+  "newsTitle": "GA-08 Race News",
+  "raceFilter": "us_house_ga08",
+  "raceTags": ["us_house", "us_federal", "federal_legislature", "houston_county"],
+  "externalIds": {
+    "openFEC": "H6GA08",
+    "ballotpedia": "Georgia's_8th_Congressional_District"
+  },
+  "electionInfo": {
+    "district": "GA-08",
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 2
+  }
+}

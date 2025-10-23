@@ -1,14 +1,12 @@
 {
   "id": "richard_wright",
   "name": "Richard Wright",
+  "photoUrl": "https://theatlantavoice.com/wp-content/uploads/2021/06/richard-n-wright-headshot-scaled-1.jpeg",
   "party": "Democratic",
   "race": "ga_lt_governor",
   "isIncumbent": false,
   "background": "Business professional and candidate for Lieutenant Governor of Georgia in 2026. :contentReference[oaicite:3]{index=3}",
-  "experience": [
-    "Business owner",
-    "Political candidate"
-  ],
+  "experience": ["Business owner", "Political candidate"],
   "keyIssues": [
     "New leadership and vision for Georgia",
     "Education and workforce development",

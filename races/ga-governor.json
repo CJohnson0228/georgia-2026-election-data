@@ -1,1 +1,19 @@
-
+{
+  "id": "governor",
+  "title": "Governor",
+  "openSeat": true,
+  "subtitle": "Georgia's Chief Executive",
+  "aboutContent": "The Governor serves as Georgia's chief executive, leading the state's government and setting priorities for all Georgians. The Governor proposes the state budget, signs or vetoes legislation, appoints judges and agency heads, and represents Georgia on the national stage. In 2026, this open seat represents a crucial opportunity to shape Georgia's future on issues like education funding, healthcare access, economic development, and voting rights.",
+  "candidatesContent": "Democratic candidates will be posted as campaigns are announced. Check back for updates on who's running to lead Georgia.",
+  "newsTitle": "Governor Race News",
+  "raceFilter": "ga_governor",
+  "raceTags": ["ga_governor", "ga_executive", "ga_state", "statewide"],
+  "externalIds": {
+    "transparencyUSA": "ga-governor-2026"
+  },
+  "electionInfo": {
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 4
+  }
+}

@@ -1,0 +1,17 @@
+[
+  { "id": "governor", "filename": "ga-governor.json" },
+  { "id": "lt-governor", "filename": "ga-ltgovernor.json" },
+  { "id": "attorney-general", "filename": "ga-attorneygeneral.json" },
+  { "id": "secretary-of-state", "filename": "ga-secretaryofstate.json" },
+  { "id": "ga-senate-sd18", "filename": "ga-senate-sd18.json" },
+  { "id": "ga-senate-sd20", "filename": "ga-senate-sd20.json" },
+  { "id": "ga-senate-sd26", "filename": "ga-senate-sd26.json" },
+  { "id": "ga-house-hd134", "filename": "ga-house-hd134.json" },
+  { "id": "ga-house-hd143", "filename": "ga-house-hd143.json" },
+  { "id": "ga-house-hd146", "filename": "ga-house-hd146.json" },
+  { "id": "ga-house-hd147", "filename": "ga-house-hd147.json" },
+  { "id": "ga-house-hd148", "filename": "ga-house-hd148.json" },
+  { "id": "us-house-ga08", "filename": "us-house-ga08.json" },
+  { "id": "us-house-ga02", "filename": "us-house-ga02.json" },
+  { "id": "us-senate-1", "filename": "us-senate-1.json" }
+]

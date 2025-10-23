@@ -1,6 +1,7 @@
 {
   "id": "greg_dolezal",
   "name": "Greg Dolezal",
+  "photoUrl": "https://georgiara.com/wp-content/uploads/2021/08/dolez.jpg",
   "party": "Republican",
   "race": "ga_lt_governor",
   "isIncumbent": false,
@@ -9,11 +10,7 @@
     "Chair, Forsyth County Republican Party",
     "Business owner and entrepreneur"
   ],
-  "keyIssues": [
-    "Economic development",
-    "Education reform",
-    "Public safety"
-  ],
+  "keyIssues": ["Economic development", "Education reform", "Public safety"],
   "website": "https://gregdolezal.com/",
   "endorsements": [],
   "socialMedia": {
@@ -21,7 +18,5 @@
     "facebook": "https://www.facebook.com/dolezalforgeorgia",
     "instagram": "@teamdolezal"
   },
-  "sources": [
-    "https://ballotpedia.org/Greg_Dolezal"
-  ]
+  "sources": ["https://ballotpedia.org/Greg_Dolezal"]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "ga-house-hd148",
+  "title": "Georgia House District 148",
+  "openSeat": true,
+  "subtitle": "Your Local Representative in Atlanta",
+  "aboutContent": "House District 148 represents your neighborhood in the Georgia General Assembly. Your State Representative votes on issues that directly affect Houston County families: school funding, healthcare access, infrastructure, and local services. With two-year terms, Representatives are accountable to voters frequently and can be powerful advocates for community needs.",
+  "candidatesContent": "Democratic candidates for HD-148 will be posted as campaigns are announced. Know who's running to represent YOUR district.",
+  "newsTitle": "HD-148 Race News",
+  "raceFilter": "ga_house_hd148",
+  "raceTags": ["ga_house", "ga_state", "state_legislature", "houston_county"],
+  "externalIds": {
+    "transparencyUSA": "ga-house-hd148-2026"
+  },
+  "electionInfo": {
+    "district": "HD-148",
+    "primary": "May 19, 2026",
+    "general": "November 3, 2026",
+    "termLength": 2
+  }
+}

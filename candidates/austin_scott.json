@@ -1,9 +1,9 @@
 {
   "id": "austin_scott",
   "name": "Austin Scott",
-  "photoURL": "https://austinscott.house.gov/_cache/files/3/e/3e447006-9391-4031-a2f2-8a0728a53248/20EA2C40279DCF676C7299225DBDA258EFCEF096C8A9D2F776D23620D576344E.118-headshot-display.jpg"
+  "photoUrl": "https://austinscott.house.gov/_cache/files/3/e/3e447006-9391-4031-a2f2-8a0728a53248/20EA2C40279DCF676C7299225DBDA258EFCEF096C8A9D2F776D23620D576344E.118-headshot-display.jpg",
   "party": "Republican",
-  "race": "us-house-ga08",
+  "race": "us_house_ga08",
   "isIncumbent": true,
   "background": "Born December 10, 1969 in Augusta, Georgia. Graduated from Tiftarea Academy in 1987 and earned a B.B.A. from the University of Georgia in 1993. Former small-business owner and insurance brokerage operator.",
   "experience": [

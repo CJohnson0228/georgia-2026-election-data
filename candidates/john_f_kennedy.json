@@ -1,6 +1,7 @@
 {
   "id": "john_f_kennedy",
   "name": "John F. Kennedy",
+  "photoUrl": "https://www.georgiatrust.org/wp-content/uploads/kennedy-john-852.jpg",
   "party": "Republican",
   "race": "ga_lt_governor",
   "isIncumbent": false,

@@ -1,19 +1,13 @@
 {
   "id": "gregg_kirkpatrick",
   "name": "Gregg Kirkpatrick",
+  "photoUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbranch-production-bucket.s3.amazonaws.com%2Fimages%2Fcandidates%2F1712347654579_blob&f=1&nofb=1&ipt=f6b018948134041c8e0cc06164bfbbed62a75e9c2c151feaefb05a95bcc4dcac",
   "party": "Republican",
   "race": "ga_governor",
   "isIncumbent": false,
   "background": "Businessman and local leader in Georgia.",
-  "experience": [
-    "Business owner",
-    "Community leader"
-  ],
-  "keyIssues": [
-    "Economic development",
-    "Education",
-    "Government efficiency"
-  ],
+  "experience": ["Business owner", "Community leader"],
+  "keyIssues": ["Economic development", "Education", "Government efficiency"],
   "website": "",
   "endorsements": [],
   "socialMedia": {
@@ -21,7 +15,5 @@
     "facebook": null,
     "instagram": null
   },
-  "sources": [
-    "https://ballotpedia.org/Gregg_Kirkpatrick"
-  ]
+  "sources": ["https://ballotpedia.org/Gregg_Kirkpatrick"]
 }

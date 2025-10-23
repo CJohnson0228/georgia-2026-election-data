@@ -1,8 +1,9 @@
 {
   "id": "william_cowsert",
   "name": "William Cowsert",
+  "photoUrl": "https://www.top100criminaldefenseattorneys.com/wp-content/uploads/job-manager-uploads/job_headshot/2018/02/WSC.jpg",
   "party": "Republican",
-  "race": "ga_attorney_general",
+  "race": "ga_attorneygeneral",
   "isIncumbent": false,
   "background": "Georgia State Senator (since 2007) and declared candidate for Attorney General in 2026.",
   "experience": [
@@ -21,7 +22,5 @@
     "facebook": null,
     "instagram": null
   },
-  "sources": [
-    "https://apnews.com/article/18121e3723b290457b647fa027358f0a"
-  ]
+  "sources": ["https://apnews.com/article/18121e3723b290457b647fa027358f0a"]
 }
