@@ -3,67 +3,201 @@
     {
       "id": "google-news-georgia-2026",
       "name": "Georgia 2026 Elections",
-      "url": "https://news.google.com/rss/search?q=Georgia+election+2026+OR+%22Georgia+governor%22+OR+%22lieutenant+governor%22&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+election+2026&hl=en-US&gl=US&ceid=US:en",
       "category": "elections",
       "priority": 1,
       "description": "Latest news about Georgia 2026 elections"
     },
     {
-      "id": "google-news-bottoms",
+      "id": "google-news-governor",
+      "name": "Georgia Governor Race",
+      "url": "https://news.google.com/rss/search?q=Georgia+governor+race+2026&hl=en-US&gl=US&ceid=US:en",
+      "category": "races",
+      "priority": 1,
+      "raceFilter": "ga_governor"
+    },
+    {
+      "id": "google-news-lt-governor",
+      "name": "Georgia Lt. Governor Race",
+      "url": "https://news.google.com/rss/search?q=Georgia+lieutenant+governor+2026&hl=en-US&gl=US&ceid=US:en",
+      "category": "races",
+      "priority": 1,
+      "raceFilter": "ga_lt_governor"
+    },
+    {
+      "id": "google-news-attorney-general",
+      "name": "Georgia Attorney General Race",
+      "url": "https://news.google.com/rss/search?q=Georgia+attorney+general+2026&hl=en-US&gl=US&ceid=US:en",
+      "category": "races",
+      "priority": 1,
+      "raceFilter": "ga_attorneygeneral"
+    },
+    {
+      "id": "google-news-secretary-of-state",
+      "name": "Georgia Secretary of State Race",
+      "url": "https://news.google.com/rss/search?q=Georgia+secretary+of+state+2026&hl=en-US&gl=US&ceid=US:en",
+      "category": "races",
+      "priority": 1,
+      "raceFilter": "ga_secretaryofstate"
+    },
+    {
+      "id": "google-news-us-senate",
+      "name": "Georgia U.S. Senate Race",
+      "url": "https://news.google.com/rss/search?q=Georgia+senate+race+2026+OR+%22Jon+Ossoff%22&hl=en-US&gl=US&ceid=US:en",
+      "category": "races",
+      "priority": 1,
+      "raceFilter": "us_senate_ga"
+    },
+    {
+      "id": "google-news-keisha-bottoms",
       "name": "Keisha Lance Bottoms",
       "url": "https://news.google.com/rss/search?q=%22Keisha+Lance+Bottoms%22+Georgia&hl=en-US&gl=US&ceid=US:en",
       "category": "candidates",
       "priority": 2,
-      "candidateId": "keisha-lance-bottoms"
+      "candidateId": "keisha_bottoms"
     },
     {
-      "id": "google-news-thurmond",
+      "id": "google-news-michael-thurmond",
       "name": "Michael Thurmond",
       "url": "https://news.google.com/rss/search?q=%22Michael+Thurmond%22+Georgia+governor&hl=en-US&gl=US&ceid=US:en",
       "category": "candidates",
       "priority": 2,
-      "candidateId": "michael-thurmond"
+      "candidateId": "michael_thurmond"
     },
     {
-      "id": "google-news-romman",
+      "id": "google-news-ruwa-romman",
       "name": "Ruwa Romman",
       "url": "https://news.google.com/rss/search?q=%22Ruwa+Romman%22+Georgia&hl=en-US&gl=US&ceid=US:en",
       "category": "candidates",
       "priority": 2,
-      "candidateId": "ruwa-romman"
+      "candidateId": "ruwa_romman"
     },
     {
-      "id": "google-news-mclaurin",
+      "id": "google-news-tanya-miller",
+      "name": "Tanya Miller",
+      "url": "https://news.google.com/rss/search?q=%22Tanya+Miller%22+Georgia+governor&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "tanya_miller"
+    },
+    {
+      "id": "google-news-josh-mclaurin",
       "name": "Josh McLaurin",
       "url": "https://news.google.com/rss/search?q=%22Josh+McLaurin%22+Georgia&hl=en-US&gl=US&ceid=US:en",
       "category": "candidates",
       "priority": 2,
-      "candidateId": "josh-mclaurin"
+      "candidateId": "joshua_mclaurin"
     },
     {
-      "id": "google-news-sd20",
-      "name": "State Senate District 20",
-      "url": "https://news.google.com/rss/search?q=Georgia+%22State+Senate+District+20%22+OR+Houston+County+politics&hl=en-US&gl=US&ceid=US:en",
+      "id": "google-news-jason-esteves",
+      "name": "Jason Esteves",
+      "url": "https://news.google.com/rss/search?q=%22Jason+Esteves%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "jason_esteves"
+    },
+    {
+      "id": "google-news-burt-jones",
+      "name": "Burt Jones",
+      "url": "https://news.google.com/rss/search?q=%22Burt+Jones%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "burt_jones"
+    },
+    {
+      "id": "google-news-chris-carr",
+      "name": "Chris Carr",
+      "url": "https://news.google.com/rss/search?q=%22Chris+Carr%22+Georgia+attorney&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "chris_carr"
+    },
+    {
+      "id": "google-news-brad-raffensperger",
+      "name": "Brad Raffensperger",
+      "url": "https://news.google.com/rss/search?q=%22Brad+Raffensperger%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "brad_raffensperger"
+    },
+    {
+      "id": "google-news-jon-ossoff",
+      "name": "Jon Ossoff",
+      "url": "https://news.google.com/rss/search?q=%22Jon+Ossoff%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "jon_ossoff"
+    },
+    {
+      "id": "google-news-buddy-carter",
+      "name": "Buddy Carter",
+      "url": "https://news.google.com/rss/search?q=%22Buddy+Carter%22+Georgia+senate&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "buddy_carter"
+    },
+    {
+      "id": "google-news-geoff-duncan",
+      "name": "Geoff Duncan",
+      "url": "https://news.google.com/rss/search?q=%22Geoff+Duncan%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 2,
+      "candidateId": "geoff_duncan"
+    },
+    {
+      "id": "google-news-blake-tillery",
+      "name": "Blake Tillery",
+      "url": "https://news.google.com/rss/search?q=%22Blake+Tillery%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 3,
+      "candidateId": "blake_tillery"
+    },
+    {
+      "id": "google-news-brian-strickland",
+      "name": "Brian Strickland",
+      "url": "https://news.google.com/rss/search?q=%22Brian+Strickland%22+Georgia&hl=en-US&gl=US&ceid=US:en",
+      "category": "candidates",
+      "priority": 3,
+      "candidateId": "brian_strickland"
+    },
+    {
+      "id": "google-news-houston-county",
+      "name": "Houston County Politics",
+      "url": "https://news.google.com/rss/search?q=Houston+County+Georgia+politics+OR+election&hl=en-US&gl=US&ceid=US:en",
       "category": "local",
       "priority": 2,
-      "description": "Local news about SD-20 and Houston County"
+      "description": "Local news about Houston County politics"
+    },
+    {
+      "id": "google-news-middle-georgia",
+      "name": "Middle Georgia Politics",
+      "url": "https://news.google.com/rss/search?q=Middle+Georgia+politics+OR+election&hl=en-US&gl=US&ceid=US:en",
+      "category": "local",
+      "priority": 2,
+      "description": "Regional news about Middle Georgia"
     },
     {
       "id": "georgia-recorder",
       "name": "Georgia Recorder",
       "url": "https://georgiarecorder.com/feed/",
+      "category": "news-outlet",
+      "priority": 1,
       "description": "Independent nonprofit Georgia news"
     },
     {
       "id": "gapundit",
       "name": "GaPundit",
       "url": "https://gapundit.com/feed/",
+      "category": "news-outlet",
+      "priority": 2,
       "description": "Georgia political analysis blog"
     }
   ],
   "categories": {
     "elections": "Statewide election news",
+    "races": "Specific race coverage",
     "candidates": "Candidate-specific coverage",
-    "local": "Houston County and Middle Georgia"
+    "local": "Houston County and Middle Georgia",
+    "news-outlet": "Georgia news organizations"
   }
 }
