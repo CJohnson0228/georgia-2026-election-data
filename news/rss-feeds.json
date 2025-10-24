@@ -87,7 +87,7 @@
       "category": "news-outlet",
       "priority": 1,
       "description": "Independent nonprofit Georgia news",
-      "raceTags": ["all"]
+      "raceTags": []
     },
     {
       "id": "gapundit",
@@ -96,7 +96,7 @@
       "category": "news-outlet",
       "priority": 2,
       "description": "Georgia political analysis blog",
-      "raceTags": ["all"]
+      "raceTags": []
     }
   ],
   "categories": {
