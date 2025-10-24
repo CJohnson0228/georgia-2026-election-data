@@ -1,0 +1,338 @@
+{
+  "lastUpdated": "2025-10-24T04:22:56.476594",
+  "candidates": {
+    "keisha_l_bottoms": {
+      "name": "Keisha L Bottoms",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$922,401.26",
+      "loans": "$181,425.00",
+      "expenditures": "$32,972.95",
+      "status": "Candidacy Declared"
+    },
+    "olu_brown": {
+      "name": "Olu Brown",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$19,148.87",
+      "loans": "$0.00",
+      "expenditures": "$10,687.74",
+      "status": "Candidacy Declared"
+    },
+    "geoff_duncan": {
+      "name": "Geoff Duncan",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "jason_esteves": {
+      "name": "Jason Esteves",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$1,184,734.68",
+      "loans": "-$5,680.00",
+      "expenditures": "$313,603.82",
+      "status": "Candidacy Declared"
+    },
+    "derrick_jackson": {
+      "name": "Derrick Jackson",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$10,176.00",
+      "loans": "$0.00",
+      "expenditures": "$41,837.91",
+      "status": "Candidacy Declared"
+    },
+    "ruwa_romman": {
+      "name": "Ruwa Romman",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$15,448.00",
+      "loans": "$0.00",
+      "expenditures": "$42,833.87",
+      "status": "Candidacy Declared"
+    },
+    "michael_thurmond": {
+      "name": "Michael Thurmond",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "chris_carr": {
+      "name": "Chris Carr",
+      "race": "ga_governor",
+      "party": "Republican",
+      "contributions": "$2,542,781.57",
+      "loans": "$0.00",
+      "expenditures": "$753,818.38",
+      "status": "Candidacy Declared"
+    },
+    "clark_dean": {
+      "name": "Clark Dean",
+      "race": "ga_governor",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "burt_jones": {
+      "name": "Burt Jones",
+      "race": "ga_governor",
+      "party": "Republican",
+      "contributions": "$86,220.00",
+      "loans": "$0.00",
+      "expenditures": "$375,558.23",
+      "status": "Candidacy Declared"
+    },
+    "gregg_kirkpatrick": {
+      "name": "Gregg Kirkpatrick",
+      "race": "ga_governor",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "leland_olinger_ii": {
+      "name": "Leland Olinger II",
+      "race": "ga_governor",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "brad_raffensperger": {
+      "name": "Brad Raffensperger",
+      "race": "ga_governor",
+      "party": "Republican",
+      "contributions": "$100.00",
+      "loans": "$0.00",
+      "expenditures": "$4,827.41",
+      "status": "Candidacy Declared"
+    },
+    "joshua_mclaurin": {
+      "name": "Joshua Mclaurin",
+      "race": "ga_lt_governor",
+      "party": "Democratic",
+      "contributions": "$120,461.00",
+      "loans": "$0.00",
+      "expenditures": "$33,481.56",
+      "status": "Candidacy Declared"
+    },
+    "richard_wright": {
+      "name": "Richard Wright",
+      "race": "ga_lt_governor",
+      "party": "Democratic",
+      "contributions": "$20,239.00",
+      "loans": "$0.00",
+      "expenditures": "$435.10",
+      "status": "Candidacy Declared"
+    },
+    "david_clark": {
+      "name": "David Clark",
+      "race": "ga_lt_governor",
+      "party": "Republican",
+      "contributions": "$12,291.90",
+      "loans": "$0.00",
+      "expenditures": "$23,430.87",
+      "status": "Candidacy Declared"
+    },
+    "greg_dolezal": {
+      "name": "Greg Dolezal",
+      "race": "ga_lt_governor",
+      "party": "Republican",
+      "contributions": "$38,750.00",
+      "loans": "$0.00",
+      "expenditures": "$116,703.69",
+      "status": "Candidacy Declared"
+    },
+    "steve_gooch": {
+      "name": "Steve Gooch",
+      "race": "ga_lt_governor",
+      "party": "Republican",
+      "contributions": "$802,735.52",
+      "loans": "$0.00",
+      "expenditures": "$104,755.51",
+      "status": "Candidacy Declared"
+    },
+    "john_f_kennedy": {
+      "name": "John F Kennedy",
+      "race": "ga_senate_18",
+      "party": "Republican",
+      "contributions": "$1,663,539.73",
+      "loans": "$0.00",
+      "expenditures": "$135,565.00",
+      "status": "Withdrew"
+    },
+    "brenda_l_nelson_porter": {
+      "name": "Brenda L Nelson-Porter",
+      "race": "ga_lt_governor",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "blake_tillery": {
+      "name": "Blake Tillery",
+      "race": "ga_lt_governor",
+      "party": "Republican",
+      "contributions": "$60,850.00",
+      "loans": "$627,492.48",
+      "expenditures": "$146,383.97",
+      "status": "Candidacy Declared"
+    },
+    "jerry_timbs": {
+      "name": "Jerry Timbs",
+      "race": "ga_lt_governor",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "tanya_f_miller": {
+      "name": "Tanya F Miller",
+      "race": "ga_attorney_general",
+      "party": "Democratic",
+      "contributions": "$12,050.00",
+      "loans": "$0.00",
+      "expenditures": "$15,637.73",
+      "status": "Candidacy Declared"
+    },
+    "bob_trammell": {
+      "name": "Bob Trammell",
+      "race": "ga_attorney_general",
+      "party": "Democratic",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "william_cowsert": {
+      "name": "William Cowsert",
+      "race": "ga_attorney_general",
+      "party": "Republican",
+      "contributions": "$595,827.00",
+      "loans": "$0.00",
+      "expenditures": "$54,062.32",
+      "status": "Candidacy Declared"
+    },
+    "brian_strickland": {
+      "name": "Brian Strickland",
+      "race": "ga_attorney_general",
+      "party": "Republican",
+      "contributions": "$434,868.70",
+      "loans": "$0.00",
+      "expenditures": "$42,727.85",
+      "status": "Candidacy Declared"
+    },
+    "adrian_consonery_jr": {
+      "name": "Adrian Consonery Jr.",
+      "race": "ga_secretary_of_state",
+      "party": "Democratic",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "penny_brown_reynolds": {
+      "name": "Penny Brown Reynolds",
+      "race": "ga_secretary_of_state",
+      "party": "Democratic",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "timothy_k_fleming": {
+      "name": "Timothy K Fleming",
+      "race": "ga_secretary_of_state",
+      "party": "Republican",
+      "contributions": "$5,950.00",
+      "loans": "$0.00",
+      "expenditures": "$24,707.85",
+      "status": "Candidacy Declared"
+    },
+    "kelvin_king": {
+      "name": "Kelvin King",
+      "race": "ga_secretary_of_state",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "gabriel_sterling": {
+      "name": "Gabriel Sterling",
+      "race": "ga_secretary_of_state",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "eric_wilson": {
+      "name": "Eric Wilson",
+      "race": "ga_senate_18",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "larry_walker": {
+      "name": "Larry Walker",
+      "race": "ga_senate_20",
+      "party": "Republican",
+      "contributions": "$66,665.89",
+      "loans": "$0.00",
+      "expenditures": "$56,993.77",
+      "status": "Candidacy Declared"
+    },
+    "david_lucas": {
+      "name": "David Lucas",
+      "race": "ga_senate_26",
+      "party": "Democratic",
+      "contributions": "$7,762.03",
+      "loans": "$0.00",
+      "expenditures": "$10,257.25",
+      "status": "Candidacy Declared"
+    },
+    "robert_dickey": {
+      "name": "Robert Dickey",
+      "race": "ga_house_134",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
+      "status": "Candidacy Declared"
+    },
+    "anissa_jones": {
+      "name": "Anissa Jones",
+      "race": "ga_house_143",
+      "party": "Democratic",
+      "contributions": "$3,250.00",
+      "loans": "$0.00",
+      "expenditures": "$4,577.03",
+      "status": "Candidacy Declared"
+    },
+    "shaw_blackmon": {
+      "name": "Shaw Blackmon",
+      "race": "ga_house_146",
+      "party": "Republican",
+      "contributions": "$47,900.00",
+      "loans": "$0.00",
+      "expenditures": "$41,419.49",
+      "status": "Candidacy Declared"
+    }
+  }
+}
