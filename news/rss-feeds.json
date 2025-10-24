@@ -7,7 +7,7 @@
       "category": "elections",
       "priority": 1,
       "description": "Latest news about Georgia 2026 elections",
-      "raceTags": ["all"]
+      "raceTags": []
     },
     {
       "id": "google-news-governor",
