@@ -1,37 +1,13 @@
 {
-  "lastChecked": "2025-10-24T04:22:56.476594",
+  "lastChecked": "2025-10-24T04:35:35.919447",
   "pendingCandidates": [
-    {
-      "suggestedId": "keisha_l_bottoms",
-      "name": "Keisha L Bottoms",
-      "party": "Democratic",
-      "race": "ga_governor",
-      "contributions": "$922,401.26",
-      "detectedOn": "2025-10-24T04:22:56.476594"
-    },
-    {
-      "suggestedId": "brenda_l_nelson_porter",
-      "name": "Brenda L Nelson-Porter",
-      "party": "Republican",
-      "race": "ga_lt_governor",
-      "contributions": "$0.00",
-      "detectedOn": "2025-10-24T04:22:56.476594"
-    },
-    {
-      "suggestedId": "tanya_f_miller",
-      "name": "Tanya F Miller",
-      "party": "Democratic",
-      "race": "ga_attorney_general",
-      "contributions": "$12,050.00",
-      "detectedOn": "2025-10-24T04:22:56.476594"
-    },
     {
       "suggestedId": "eric_wilson",
       "name": "Eric Wilson",
       "party": "Republican",
       "race": "ga_senate_18",
       "contributions": "$0.00",
-      "detectedOn": "2025-10-24T04:22:56.476594"
+      "detectedOn": "2025-10-24T04:35:35.919447"
     },
     {
       "suggestedId": "david_lucas",
@@ -39,7 +15,7 @@
       "party": "Democratic",
       "race": "ga_senate_26",
       "contributions": "$7,762.03",
-      "detectedOn": "2025-10-24T04:22:56.476594"
+      "detectedOn": "2025-10-24T04:35:35.919447"
     },
     {
       "suggestedId": "robert_dickey",
@@ -47,7 +23,7 @@
       "party": "Republican",
       "race": "ga_house_134",
       "contributions": "$0.00",
-      "detectedOn": "2025-10-24T04:22:56.476594"
+      "detectedOn": "2025-10-24T04:35:35.919447"
     },
     {
       "suggestedId": "anissa_jones",
@@ -55,7 +31,7 @@
       "party": "Democratic",
       "race": "ga_house_143",
       "contributions": "$3,250.00",
-      "detectedOn": "2025-10-24T04:22:56.476594"
+      "detectedOn": "2025-10-24T04:35:35.919447"
     }
   ]
 }
