@@ -89,15 +89,6 @@
       "description": "Independent nonprofit Georgia news",
       "raceTags": []
     },
-    {
-      "id": "gapundit",
-      "name": "GaPundit",
-      "url": "https://gapundit.com/feed/",
-      "category": "news-outlet",
-      "priority": 2,
-      "description": "Georgia political analysis blog",
-      "raceTags": []
-    }
   ],
   "categories": {
     "elections": "Statewide election news",
