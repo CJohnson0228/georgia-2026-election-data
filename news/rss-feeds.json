@@ -3,7 +3,7 @@
     {
       "id": "google-news-georgia-2026",
       "name": "Georgia 2026 Elections",
-      "link": "https://news.google.com/rss/search?q=Georgia+election+2026&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+election+2026&hl=en-US&gl=US&ceid=US:en",
       "category": "elections",
       "priority": 1,
       "description": "Latest news about Georgia 2026 elections",
@@ -12,7 +12,7 @@
     {
       "id": "google-news-governor",
       "name": "Georgia Governor Race",
-      "link": "https://news.google.com/rss/search?q=Georgia+governor+race+2026&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+governor+race+2026&hl=en-US&gl=US&ceid=US:en",
       "category": "races",
       "priority": 1,
       "raceFilter": "ga_governor",
@@ -21,7 +21,7 @@
     {
       "id": "google-news-lt-governor",
       "name": "Georgia Lt. Governor Race",
-      "link": "https://news.google.com/rss/search?q=Georgia+lieutenant+governor+2026&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+lieutenant+governor+2026&hl=en-US&gl=US&ceid=US:en",
       "category": "races",
       "priority": 1,
       "raceFilter": "ga_lt_governor",
@@ -30,7 +30,7 @@
     {
       "id": "google-news-attorney-general",
       "name": "Georgia Attorney General Race",
-      "link": "https://news.google.com/rss/search?q=Georgia+attorney+general+2026&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+attorney+general+2026&hl=en-US&gl=US&ceid=US:en",
       "category": "races",
       "priority": 1,
       "raceFilter": "ga_attorneygeneral",
@@ -39,7 +39,7 @@
     {
       "id": "google-news-secretary-of-state",
       "name": "Georgia Secretary of State Race",
-      "link": "https://news.google.com/rss/search?q=Georgia+secretary+of+state+2026&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+secretary+of+state+2026&hl=en-US&gl=US&ceid=US:en",
       "category": "races",
       "priority": 1,
       "raceFilter": "ga_secretaryofstate",
@@ -48,7 +48,7 @@
     {
       "id": "google-news-us-senate",
       "name": "Georgia U.S. Senate Race",
-      "link": "https://news.google.com/rss/search?q=Georgia+senate+race+2026+OR+%22Jon+Ossoff%22&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+senate+race+2026+OR+%22Jon+Ossoff%22&hl=en-US&gl=US&ceid=US:en",
       "category": "races",
       "priority": 1,
       "raceFilter": "us_senate_ga",
@@ -57,7 +57,7 @@
     {
       "id": "google-news-us-house",
       "name": "Georgia U.S. House Races",
-      "link": "https://news.google.com/rss/search?q=Georgia+congressional+races+2026+OR+house+representatives&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Georgia+congressional+races+2026+OR+house+representatives&hl=en-US&gl=US&ceid=US:en",
       "category": "races",
       "priority": 1,
       "raceTags": ["us_house", "us_federal", "federal_legislature"]
@@ -65,7 +65,7 @@
     {
       "id": "google-news-houston-county",
       "name": "Houston County Politics",
-      "link": "https://news.google.com/rss/search?q=Houston+County+Georgia+politics+OR+election&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Houston+County+Georgia+politics+OR+election&hl=en-US&gl=US&ceid=US:en",
       "category": "local",
       "priority": 2,
       "description": "Local news about Houston County politics",
@@ -74,7 +74,7 @@
     {
       "id": "google-news-middle-georgia",
       "name": "Middle Georgia Politics",
-      "link": "https://news.google.com/rss/search?q=Middle+Georgia+politics+OR+election&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/search?q=Middle+Georgia+politics+OR+election&hl=en-US&gl=US&ceid=US:en",
       "category": "local",
       "priority": 2,
       "description": "Regional news about Middle Georgia",
@@ -83,7 +83,7 @@
     {
       "id": "georgia-recorder",
       "name": "Georgia Recorder",
-      "link": "https://georgiarecorder.com/feed/",
+      "url": "https://georgiarecorder.com/feed/",
       "category": "news-outlet",
       "priority": 1,
       "description": "Independent nonprofit Georgia news",
