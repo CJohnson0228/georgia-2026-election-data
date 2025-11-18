@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-17T03:17:08.073283",
+  "lastUpdated": "2025-11-18T03:13:10.755876",
   "candidates": {
     "keisha_l_bottoms": {
       "name": "Keisha L Bottoms",
@@ -53,6 +53,15 @@
       "contributions": "$15,448.00",
       "loans": "$0.00",
       "expenditures": "$42,833.87",
+      "status": "Candidacy Declared"
+    },
+    "dawson_son_of_david": {
+      "name": "Dawson Son of David",
+      "race": "ga_governor",
+      "party": "Democratic",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
       "status": "Candidacy Declared"
     },
     "michael_thurmond": {
