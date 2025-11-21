@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2025-11-20T03:10:28.853023",
+  "lastChecked": "2025-11-21T03:11:43.147793",
   "pendingCandidates": [
     {
       "suggestedId": "dawson_son_of_david",
@@ -7,7 +7,7 @@
       "party": "Democratic",
       "race": "ga_governor",
       "contributions": "$0.00",
-      "detectedOn": "2025-11-20T03:10:28.853023"
+      "detectedOn": "2025-11-21T03:11:43.147793"
     },
     {
       "suggestedId": "eric_wilson",
@@ -15,7 +15,7 @@
       "party": "Republican",
       "race": "ga_senate_18",
       "contributions": "$0.00",
-      "detectedOn": "2025-11-20T03:10:28.853023"
+      "detectedOn": "2025-11-21T03:11:43.147793"
     },
     {
       "suggestedId": "david_lucas",
@@ -23,7 +23,7 @@
       "party": "Democratic",
       "race": "ga_senate_26",
       "contributions": "$7,762.03",
-      "detectedOn": "2025-11-20T03:10:28.853023"
+      "detectedOn": "2025-11-21T03:11:43.147793"
     },
     {
       "suggestedId": "robert_dickey",
@@ -31,7 +31,7 @@
       "party": "Republican",
       "race": "ga_house_134",
       "contributions": "$0.00",
-      "detectedOn": "2025-11-20T03:10:28.853023"
+      "detectedOn": "2025-11-21T03:11:43.147793"
     },
     {
       "suggestedId": "anissa_jones",
@@ -39,7 +39,7 @@
       "party": "Democratic",
       "race": "ga_house_143",
       "contributions": "$3,250.00",
-      "detectedOn": "2025-11-20T03:10:28.853023"
+      "detectedOn": "2025-11-21T03:11:43.147793"
     }
   ]
 }
