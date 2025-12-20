@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T03:24:51.176137",
+  "lastUpdated": "2025-12-20T03:16:23.612270",
   "candidates": {
     "keisha_l_bottoms": {
       "name": "Keisha L Bottoms",
@@ -125,6 +125,15 @@
       "contributions": "$100.00",
       "loans": "$0.00",
       "expenditures": "$4,827.41",
+      "status": "Candidacy Declared"
+    },
+    "kenneth_yasger": {
+      "name": "Kenneth Yasger",
+      "race": "ga_governor",
+      "party": "Republican",
+      "contributions": "$0.00",
+      "loans": "$0.00",
+      "expenditures": "$0.00",
       "status": "Candidacy Declared"
     },
     "joshua_mclaurin": {
